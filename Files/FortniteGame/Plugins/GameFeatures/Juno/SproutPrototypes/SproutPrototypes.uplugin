@@ -1,0 +1,146 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Loaded",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_NewYorkApartment",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_NewsPaperBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_DurrBurger",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Lighthouse",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutSmartObject",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Handhelds",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBoombox",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutJobs_Base",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_NewYorkApartment",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoArtBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Sprout/Gameplay",
+	"LocalizationTargets": [
+		{
+			"Name": "SproutPrototypes",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

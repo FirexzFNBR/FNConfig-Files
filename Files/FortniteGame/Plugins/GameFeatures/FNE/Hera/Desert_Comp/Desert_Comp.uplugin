@@ -1,0 +1,79 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/Hera/S39/Desert",
+	"FortReleaseVersion": "39.40",
+	"Plugins": [
+		{
+			"Name": "Desert_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCoreMaterials",
+			"Enabled": true
+		},
+		{
+			"Name": "Hermes",
+			"Enabled": true
+		},
+		{
+			"Name": "Hera",
+			"Enabled": true
+		},
+		{
+			"Name": "AmbientAudioContent",
+			"Enabled": true
+		},
+		{
+			"Name": "Canyon_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "RRoost_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "TTides_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "BeachT_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "LACity_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "RWood_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "AlleyT_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "SStudio_Assets",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

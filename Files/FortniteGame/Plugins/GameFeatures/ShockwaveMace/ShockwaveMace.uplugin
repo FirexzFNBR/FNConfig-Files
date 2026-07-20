@@ -1,0 +1,56 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "S23",
+	"FortReleaseVersion": "23.00",
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFN",
+			"Enabled": true
+		},
+		{
+			"Name": "FortaniumGeneral",
+			"Enabled": true
+		},
+		{
+			"Name": "RidingCode",
+			"Enabled": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Melee",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered"
+}

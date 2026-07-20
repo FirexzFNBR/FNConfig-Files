@@ -1,0 +1,89 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/UnrealEngine.com/Conversations",
+	"VerseScope": "PublicAPI",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.50",
+	"Modules": [
+		{
+			"Name": "MimicRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ChatCompletion",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ElevenLabs",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatureSet",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleGemini",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Monologue",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "OnlineFrameworkCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServices",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Orator",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		}
+	]
+}

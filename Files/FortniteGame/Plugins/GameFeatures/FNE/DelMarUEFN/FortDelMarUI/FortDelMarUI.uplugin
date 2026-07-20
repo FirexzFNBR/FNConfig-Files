@@ -1,0 +1,117 @@
+﻿{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "DelMarUEFN",
+	"FortReleaseVersion": "33.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"Modules": [
+		{
+			"Name": "FortDelMarUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortDelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemMcp",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "WidgetTransitioning",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "FortDelMarUI",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "29.30",
+	"Plugins": [
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FMJamCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": false,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "28.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "Verse NPC Spawner",
+	"Description": "",
+	"Category": "Verse",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "http://epicgames.com",
+	"SupportURL": "",
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "HiredGuardCommands",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HenchmanSpawner",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		}
+	]
+}

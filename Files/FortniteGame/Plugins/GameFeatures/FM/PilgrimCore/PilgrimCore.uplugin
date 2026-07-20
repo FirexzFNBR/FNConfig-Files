@@ -1,0 +1,248 @@
+{
+	"FileVersion": 3,
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"DODTestDoesGameSkipLoadingAsBuiltIn": "true",
+	"Modules": [
+		{
+			"Name": "PilgrimCoreRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "PilgrimCoreUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		},
+		{
+			"Name": "HarmonixInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCore",
+			"Enabled": true
+		},
+		{
+			"Name": "BeatSyncedAnimMetaData",
+			"Enabled": true
+		},
+		{
+			"Name": "BeatSyncedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticAssembledItemDefinitions",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCalibration",
+			"Enabled": true
+		},
+		{
+			"Name": "FMAudioReactiveData",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMusicPlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCharacterCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCharacterFull",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksPermanentQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayMessages",
+			"Enabled": true
+		},
+		{
+			"Name": "PortMidiInputDevice",
+			"Enabled": true,
+			"Optional": true,
+			"SupportedTargetPlatforms": [
+				"Win64"
+			],
+			"TargetDenyList": [
+				"Server"
+			]
+		},
+		{
+			"Name": "UsbdMidiInputDevice",
+			"Enabled": true,
+			"Optional": true,
+			"SupportedTargetPlatforms": [
+				"PS4",
+				"PS5"
+			],
+			"TargetDenyList": [
+				"Server"
+			]
+		},
+		{
+			"Name": "GameInputMidi",
+			"Enabled": true,
+			"Optional": true,
+			"SupportedTargetPlatforms": [
+				"XB1",
+				"XSX"
+			],
+			"TargetDenyList": [
+				"Server"
+			]
+		},
+		{
+			"Name": "MidiInputInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineGameplayFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimQPShared",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "ACLPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "SideloadedAnimation",
+			"Enabled": true
+		},
+		{
+			"Name": "UAC",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksLobby",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksUICommon",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksAudioBase",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "SparksMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "PolygonalInputZones",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSettings",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "PilgrimCore",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

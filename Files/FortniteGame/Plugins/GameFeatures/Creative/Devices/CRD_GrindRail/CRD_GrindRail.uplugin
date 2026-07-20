@@ -1,0 +1,46 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"EditorCustomVirtualPath": "Creative",
+	"FortReleaseVersion": "25.00",
+	"Description": "UGC Device that allows placement of Grind Rails.",
+	"Category": "Game Features",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"Plugins": [
+		{
+			"Name": "GrindRail",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoEnviroItems",
+			"Enabled": true
+		}
+	],
+	"FriendlyName": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_GrindRail",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

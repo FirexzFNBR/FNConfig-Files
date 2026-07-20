@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/SolidWave/SWave_Quill",
+	"FortReleaseVersion": "36.10",
+	"Plugins": [
+		{
+			"Name": "SWave_Quill_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "SWave_Core_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "SolidWaveTags",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

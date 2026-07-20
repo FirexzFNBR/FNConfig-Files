@@ -1,0 +1,82 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "29.10",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay",
+	"Modules": [
+		{
+			"Name": "JunoPowerSystemRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoVehicles_StarterVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWorldManagement",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoPowerSystem",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

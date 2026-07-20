@@ -1,0 +1,84 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Osiris/Scenarios",
+	"FortReleaseVersion": "29.40",
+	"EditorOnly": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAdventures",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoOsirisGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "https://confluence.it.epicgames.com/x/eMbwF",
+	"MarketplaceURL": "",
+	"SupportURL": ""
+}

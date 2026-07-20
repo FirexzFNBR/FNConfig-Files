@@ -1,0 +1,50 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "31.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LimeEvade",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "FNE/Lime/Overrides"
+}

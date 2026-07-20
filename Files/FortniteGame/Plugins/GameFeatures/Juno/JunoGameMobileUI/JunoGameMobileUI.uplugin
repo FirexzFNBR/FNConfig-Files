@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"ClientOnly": true,
+	"FortReleaseVersion": "36.10",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Juno/Odyssey/UI",
+	"Modules": [
+		{
+			"Name": "JunoGameMobileUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DynamicBacchusHUD",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTouchCommonUI",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoExclusiveUI",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNStaminaUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameUILibrary",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoGameMobileUI",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

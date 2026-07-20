@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "Redwood",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "Chat Completion",
+	"Description": "Redwood Project Restricted Plugin - Any usage must be pre-approved on a case-by-case basis via Legal service desk: https://jira.it.epicgames.com/servicedesk/customer/portal/5/create/4027",
+	"Category": "Redwood",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ChatCompletion",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ChatCompletionEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "OidcAuthentication",
+			"Enabled": true
+		},
+		{
+			"Name": "RedwoodCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInsights",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

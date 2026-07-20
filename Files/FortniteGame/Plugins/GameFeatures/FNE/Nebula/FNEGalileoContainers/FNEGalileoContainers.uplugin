@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FNE/Nebula/SW_Devices/Containers",
+	"Plugins": [
+		{
+			"Name": "Galileo",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Lobster",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Ranged",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEBraveCrown",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEBrightJuice",
+			"Enabled": true
+		},
+		{
+			"Name": "FNECrustyChain",
+			"Enabled": true
+		},
+		{
+			"Name": "FNECalmRock",
+			"Enabled": true
+		}
+	]
+}

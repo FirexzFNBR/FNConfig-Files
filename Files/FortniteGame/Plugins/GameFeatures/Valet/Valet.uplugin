@@ -1,0 +1,136 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Active",
+	"EditorCustomVirtualPath": "Vehicles",
+	"FortReleaseVersion": "13.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ValetRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ValetUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AnimationBudgetAllocator",
+			"Enabled": true
+		},
+		{
+			"Name": "AsyncObject",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Curie",
+			"Enabled": true
+		},
+		{
+			"Name": "FortVehicleSimulationSteps",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "EngineCameras",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MotoSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "NetworkPrediction",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
+		},
+		{
+			"Name": "Tweening",
+			"Enabled": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortAthenaVehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleBouncyChassis",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleCosmeticsAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleModTags",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	]
+}

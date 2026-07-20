@@ -1,0 +1,123 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Active",
+	"FortReleaseVersion": "Legacy",
+	"Plugins": [
+		{
+			"Name": "ControlRig",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlRigSpline",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "Emporium",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortWater",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFN",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraStaging",
+			"Enabled": true
+		},
+		{
+			"Name": "FortSoundCueTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkItems",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "AssembledMeshSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "DefaultCosmeticsAthena",
+			"Enabled": true
+		},
+		{
+			"Name": "SW_CosmeticTags",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicBaseTextures",
+			"Enabled": true
+		},
+		{
+			"Name": "CharacterDynamicsControlCore",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkLoadouts",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkArbitration",
+			"Enabled": true
+		},
+		{
+			"Name": "FortMetasound",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioMetadata",
+			"Enabled": true
+		},
+		{
+			"Name": "BeatSyncedAnimMetaData",
+			"Enabled": true
+		},
+		{
+			"Name": "DataDrivenGameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteBaseMaterials",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

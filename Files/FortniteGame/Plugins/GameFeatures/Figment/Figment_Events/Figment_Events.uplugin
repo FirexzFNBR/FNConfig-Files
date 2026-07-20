@@ -1,0 +1,68 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.40",
+	"Modules": [
+		{
+			"Name": "Figment_EventsRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "FigmentCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigmentEnvironment",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamSession",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "SpecialEventGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "BattleRoyaleGameplayAlerts",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Figment_EventsUI",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"EditorCustomVirtualPath": "Figment"
+}

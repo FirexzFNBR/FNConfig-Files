@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "BattleRoyale/Content",
+	"FortReleaseVersion": "20.00",
+	"Plugins": [
+		{
+			"Name": "BattleRoyaleNative",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleCosmeticsAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortAthenaVehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

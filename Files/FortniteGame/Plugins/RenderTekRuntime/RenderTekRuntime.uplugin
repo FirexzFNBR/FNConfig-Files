@@ -1,0 +1,15 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded" : false,
+	"EnabledByDefault" : true,
+	"NoRedist" : true,
+	"BuiltInInitializedFeatureState" : "Registered",
+	"Modules": [
+		{
+			"Name": "RenderTekRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		}
+	]
+}

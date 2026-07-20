@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+
+	"FriendlyName": "Online API Capture",
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Plugin when enabled allows logging all HTTP, Websockets, XMPP calls for debugging and development.",
+	"Category": "Online Platform",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"EnabledByDefault": false,
+
+	"Modules": [
+		{
+			"Name": "OnlineAPICapture",
+			"Type": "Runtime"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EOSReservedHooks",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSSharedFN",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineGameplayFramework",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,138 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "36.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAdventures",
+			"Enabled": true
+		},
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "SpireBoss",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "MarsEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_SpireBoss",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMarsEnemyLoot",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/World/POIs",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoGameplayPluginTemplate",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

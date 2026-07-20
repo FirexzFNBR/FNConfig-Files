@@ -1,0 +1,75 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.30",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeWeaponsCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponScythe",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeMeleeCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeAtomAssets",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "FNE/Lime/Weapons/Melee"
+}

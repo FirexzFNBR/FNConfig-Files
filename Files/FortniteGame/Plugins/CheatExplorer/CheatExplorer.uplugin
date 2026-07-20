@@ -1,0 +1,37 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CheatExplorer",
+	"Description": "An in-game tool to display, search and run all cheats, console variables and Rollbacks present in Fortnite and UE",
+	"Category": "Debugging",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EditorCustomVirtualPath": "Fortnite Cheat Explorer",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "CheatExplorer",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		}
+	],
+	"BuiltInInitialFeatureState": "Active"
+}

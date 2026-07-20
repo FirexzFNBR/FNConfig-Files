@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.00",
+	"Modules": [
+		{
+			"Name": "SparksMusicPlayspaceRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		},
+		{
+			"Name": "HarmonixInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCameraDirector",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCore",
+			"Enabled": true
+		}
+
+	]
+}

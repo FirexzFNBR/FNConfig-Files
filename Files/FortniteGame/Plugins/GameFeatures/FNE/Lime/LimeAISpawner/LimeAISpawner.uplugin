@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"Hotfixable": true,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.30",
+	"EditorCustomVirtualPath": "FNE/Lime/AI/Spawner",
+	"Plugins": [
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_AISpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HenchmanSpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCommonAI",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "HealthBar",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeNative",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseFortnite",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeMedievalSword",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "UGCNavigation",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "DefaultCosmeticsAthena",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacterNative",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

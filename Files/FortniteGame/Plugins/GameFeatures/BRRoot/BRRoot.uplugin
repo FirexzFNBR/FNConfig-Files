@@ -1,0 +1,5347 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 50,
+	"DisallowedPlugins": [
+		{
+			"Name": "DelMarGame",
+			"Comment": "BR should not depend on the DelMar product, it will explode download sizes. Something is likely configured wrong."
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Comment": "STW is not allowed in this product."
+		},
+		{
+			"Name": "JunoGame",
+			"Comment": "JunoGame is too large to be allowed in other products."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AbilityTargetingFeedbackGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AccoladeCollectionScreen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AccoladesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ActorWeakpointsCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AdHocSquads",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AgileChugJugGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AICore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AIProgressBar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AircraftADS",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AircraftADSUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AirJellyfish",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AITokenProvider",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AllegoryKeen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AllegoryKeenUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AloeCroutonWeapon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AlpacaLean_NPC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AmbientAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AmbientAudioContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AnnoyedMop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Area51Gun",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Area51GunUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ArmoredTruck",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ArmoryMarkets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ArrowTubeEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Ascender",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AscenderCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AshtonGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AthenaJackpot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AudioPunchberryContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AuraBR",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AwfulDuck",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BallisticShieldBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BallisticShieldGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BarnTowelArmoryGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BarnTowelGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BasicSUV",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassCh6",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassCh7",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassFutureSeasonsTemp_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassPermanentQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_Collections",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_ProgressionTrack",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_QuestActors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_SeasonPass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_Services",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleExperienceFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleGameplayAlerts",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleGameUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleTracks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeanstalkGameDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeastGirlStormClawsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeastGirlStormClawsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeetCalf",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BetterFishing",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BigBushGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BigHeadMode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BigLeafPile",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BikeKid",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BiomeEvents",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BladeHazard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerry",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerry_BPQuests_S41",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryAccolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryAI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryEcosystemQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryLoot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastberryMapMastery",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryMapUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryPlaylists",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlueCheese",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlueTargetEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BombableWallsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BoostedJump",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BouncePadPlant",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BouncyBug",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Bounties",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BountiesTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BowlVenus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BR_SharedAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BR_VerseNPCSpawner",
+			"Enabled": true,
+			"Optional": true,
+			"Activate": true
+		},
+		{
+			"Name": "BRAccolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRArtCh6",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRCoreMaterials",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRCreativeInGameSettings",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BREnvShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRMapCh6",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRMaps",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BrPlayerCompanion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRPlaylists",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BuckSixteenGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BugBiomeGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BuildingLocalizationDataComponent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BusLoadoutItemGrants",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CactusFruits",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CampFireSmartObject",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CAMPTemplate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Career",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CareerShowcase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CareerV3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Caretaker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CarWash",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Ch7UI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChainsawGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChapWormGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CharacterCollectionMapScreen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CharacterDynamicsControl",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeBoonsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeBoonsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeChestParent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeDualRevolversGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingSystem",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokePolarityGrenadeGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeSciencePortalGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CherrySmokeWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoCloak",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoConsumables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoEnviroItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoPlayerAugments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoRaptor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoSwarmGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClashGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleanSweepChart",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CloakGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CloudberryMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClusterBombGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClusterLauncher",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CobraDMR",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CoffeeMuffin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CoffeePuffGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ColdDayUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CollectionMapShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompanionsControlRig",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompanionsProgression",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompeteOldTab",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompetitiveOnline",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ConditionalTransitions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ContextualTraversal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CoreMovementTesting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CorruptionCrafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CorruptionGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CorruptionGameplayCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CorruptionItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CorruptionNPC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticCompanions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticItemFlowgraph",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticsDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticShoes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmosGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CowCatcherMod",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CowCatcherModCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CPC_RL",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CrimsonMist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CrustyChain",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CubeSurfing",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomizableAthenaTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomizableTacticalSprint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomizableUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomKeyMatchCommands",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CyberDogBoss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CyberSamuraiBoss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DaisyGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DaisySlurpBiome",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DamageNumbers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkNexusGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Dash",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DashberryMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DealershipCosmeticsCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DealershipSharedLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DebugUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DecorEvents",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeimosAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Deliver",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeliveryDrones",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Delulu",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeluluFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeluluReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeluluReadyUpExtensionUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeluluUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DemonMaskContainer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DemonMaskFire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DemonMaskShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DemonMaskVoid",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeployableTurretGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeployableTurretGameplayUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeployedCoverGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DesertedGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DiamondCurrencyUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Dirtbike",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DiscGuise",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DisplayContainer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DivinePlowEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DoorBashCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DoorBashContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonCartDoors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonCartNarrative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonCartNarrative_Ch7S3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonCartTTMMO",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonCartWads",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonCartWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DragonPopGameplayContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DreamFog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DriftBasicCar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DropPodParentGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DuckRace",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DuckSnacks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DuelBountiesTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicAthenaHUD",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicBacchusHUD",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicCapsuleCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicCapsuleContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicPoiPointProvider",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicRollTables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicXpFirstPartyExperiences",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EffectZones",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Electricity",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ElectroBatGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheelContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EMPGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EnergyProps",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EnhancedChew",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EnhancedResurrection",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EntityInteract",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EspressoGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EventMode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EventModeTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Events_Examples",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Events_Shared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EventSandbox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EventsAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EvergreenLauncher",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EvergreenQuest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ExtractionCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ExtractionRelicExtractor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ExtractionRelicFinder",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ExtractionSiteBooster",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FallDamageOverride",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FallDamageV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FallTeleportation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FancyMop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FerrisWheelGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_AirStrike",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_AnomalisEffect",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_Auto_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_AutoDrum_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_AutoHigh_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_Heavy_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_Infantry_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_LMG_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_LMGSAW_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_PistolCalibur_AR",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_SemiAuto_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_Suppressed_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_Surgical_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Assault_Surgical_Thermal_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Balloon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Banana",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Bandage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_BandageV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Booty",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Bush",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_ChugJug",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Coconut",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_DanceGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Dynamite",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_FireworksMortar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_GasGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_GiftBox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Glider_Item",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Grenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_IceGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_KnockGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Medkit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_MedKitV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Pepper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_PurpleStuff",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Rift_Item",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_ShadowBomb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_ShieldPotV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_Shields",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_ShockGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_SmallShieldV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_SmokeGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_SneakySnowman",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Athena_SuperTowerGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_BirthdayGiftBox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_BirthdayItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_BoomBox_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Burst_SMG",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_C4_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Ch01_DataTables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_ChugSplash",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Clinger_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Combat_Shotgun",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_CompactSMG_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_DeployableStorm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Events",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_EventsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_ExplosiveBow_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_FerretVehicle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Forage_Cake",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Forage_Hoprock",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Forage_IceCream",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Forage_SmallHealth",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Forage_SmallShield",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_GoldenPOI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Grenade_Launcher_Prox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_HavocStone",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Homages",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Hook_Gun",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_InfinityBlade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_JackalVehicle_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Jetpack",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Jetpack_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Launcher_Grenade_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Launcher_Pumpkin_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Launcher_Quad_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Launcher_Rocket_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_LaunchPadItemGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_LootTables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Martin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Martin_Items",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_AutoHeavy_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_AutoHeavySuppressed_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_DualPistol_SemiAuto_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_Flintlock_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_Handcannon_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_Revolver_SingleAction",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_Scavenger_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_Scoped_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_SemiAuto_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_SixShooter_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_SubmachineGun_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Pistol_Suppressed_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S07",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S08",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S09",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S09_LevelInstances",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S09_Map",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S09_MapUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S09_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Shotgun_AutoDrum",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Shotgun_DoubleBarrel_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Shotgun_Heavy_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Shotgun_SemiAuto_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Shotgun_Standard_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_AMR_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_BoltAction_Scope_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_Crossbow_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_Crossbow_FiendHunter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_Heavy_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_NoScope_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_Standard_Scope_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_Suppressed_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Sniper_Weather_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_StreamVideo_RiskyReels",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_TowerGrenade_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Ceiling_Electric_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Context_BouncePad_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Context_Freeze",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Context_PoisonDart",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_ContextTrap_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Campfire_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Jump_Pad_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Jump_Pad_Free_Direction_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Launch_Pad_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_MountedTurret_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Trap_Wall_Electric_Athena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Vehicle_Baller",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Vehicle_Golf_Cart",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Vehicle_PushCannon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Vehicle_QuadCrasher",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_Vehicle_ShoppingCart",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentAccolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentAudioContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentEnvironment",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentMovement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentPlayerCompanion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentPlaylists",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FillerGrunt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FinalCountdownGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FingerGuns",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalBoonsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalBosses",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalDayNightForest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalShrineGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalSnowGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalThemedChestGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FirePetalWindConsumable",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FishMarketGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FizzyCloudGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlameCeleb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlamingHoopsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlexLegendDualSMGsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlexLegendMedallionGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlexLegendsENVGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlexLegendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlexLegendWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlightParentGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlyingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMDanceSpotlight",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamDecks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamQuickMix",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMPawnBoombox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1_SharedAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1_SharedMaterialFunctions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1Framework",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1FrameworkFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1Native",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNApollo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNE_Conversation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNMStalkerKnife",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNRedwood",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FootstepVisualization",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Fortanium",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortaniumGeneral",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAthenaVehicleAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAudioClusters_Trees",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAudioGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortImguiGameFeatures",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortInteriorAudio_BR",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortLevelInjecting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortMagpiePlayerInterface",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteConversationUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteGameplayTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortnitePlatformUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteRuntimeCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortNPCMusic",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortPlaylistTravel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortPlaylistTravelUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortProcGen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortRazerChromaInputDevices",
+			"Enabled": true,
+			"Optional": true,
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"LinuxArm64"
+			]
+		},
+		{
+			"Name": "FortVehicleSimulationStepsBR",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortWaterAdvanced",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FossilMeal_Bread",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FossilMeal_Pasta",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FossilMeal_Plate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FossilMeal_Soup",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FossilMealGadget",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FossilMealQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Foxtrot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Freaky",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FrenchYedoc",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Fringeplank_Firework",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Galileo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GameHubNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GatedItemGrants",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GiantPawnCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GliderRelease",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GliderReleaseUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GoBagGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GoldenPOI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GoldenWaterfall",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GoliathBurst",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrandmaC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrappleGlider",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrappleGloves",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrappleParent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrappleWeapon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GravWellGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GravWellUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GravyTrain",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GuineaPig",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Habanero_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HabaneroCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HabaneroFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HabaneroGameUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HangerFlewEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HazelnutSpread_RivalsCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HeadsetGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HealthBar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HealthShieldRegen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HeistBaseGuards",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HelplessFootballGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Hera",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Hera_Map",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Hermes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HighTower",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HillScramble",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HitTicks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HoagieTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Homer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HoneyGlass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HoneyGlassUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HookshotGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HopscotchGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HopscotchPlayerAugments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HopscotchWeaponsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HotAirBalloon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HoverGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HUDPrototype",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HulkShip",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HumbleMop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IA_FillerGrunt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Ice",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IceBlocks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IceCream",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IceSkates",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ImmunityCarriage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ImmunityCarriageUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ImpulseGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Inferno",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "InsectSwarm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "InteractionImprovements",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IntercomAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IronTulipWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IronTulipWeaponUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Itemization",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ItemizedPropSpawnerParent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ItemWrapMapping",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Jethro",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JethroTV",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JethroUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JethroWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JethroWeaponMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JethroXV",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JobBoard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JobBoard_Extraction",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JobBoardTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JumpsuitQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "KatanaGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "KeepScoreGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "KetchupChips",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "KeysAndLocks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "KeysAndLocksUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Knockback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Koala",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Labrador",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LabradorRidingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LACombatDebugTools",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LACombatInference",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LACombatRecording",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LagerDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LagerMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LANavigationTraining",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LaserGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LaunchPadItemGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LavaLeaf",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LavaLeafUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LazyRiver",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LegacyRMTs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LegendaryPOI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LegendaryPOIUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LemonExam",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LightBunny",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LighthouseGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LilWhip",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LinedNotebookConsumables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LinedNotebookGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LinedNotebookTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LlamaHomesteadGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LocomotionInitiative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Lonelies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LootCannon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LootCurrentSeason",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LootNextChapter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LoudKiwi",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LTMCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MapExtensionsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MarketGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MarksmanVisorGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MasamuneGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchmakingSettingsFN1Shooters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchmakingSettingsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchMistMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchObjectivesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MedallionUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MedCloud",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Melt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MeltUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MeshCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MidMatchObjectivesGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MidMatchRadioTowerGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MidMatchRadioTowerGameplayUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MidmatchRadioTowerGuards",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MidMatchWeaponBunkerGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MilitaryChest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MilitiaExpire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MilitiaExpireUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Mimosa_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MiniBread",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MiscReferencersOfCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MistRaven",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MistRavenUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MLDeformer",
+			"Enabled": true,
+			"Optional": true,
+			"PlatformAllowList": [
+				"Win64",
+				"Linux",
+				"LinuxArm64",
+				"PS5",
+				"XSX"
+			]
+		},
+		{
+			"Name": "MobileQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ModdedBasicCar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MontageMotion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MoonflaxBossVehicle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MoonflaxMedallions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MoonflaxNitroSplash",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MoonFlaxWarBus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MoonFlaxWarBusUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MoonFlaxWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellBasket",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellItems_OrangeRemote",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellItems_OrangeRemote_InGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellItemsManager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellQuests_S41",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Motd",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Motorcycle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MotoWrestleGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MovementActions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MovementCamera",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MovementMotion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MudGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MurkyVoleGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusicCueRouter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusicEncounter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterConsumables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterConsumablesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterContainers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterEnviroItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterInstruments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusterPlayerAugments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NanaimoBar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NarrativePlaceholder",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NitroBarrel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NitroGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NitroGauntletsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NitroPlayerStateUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NitroUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NoBuildModeUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDefend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData_AlpacaLean",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData_PearlTaffy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData_TaxiHeel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDropItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCLibraryCh6",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCLibraryCH7S3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCReputation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCSpecialist_Assault",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCSpecialist_Covert",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCSpecialist_Professor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCSpecialist_Protector",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCSpecialists",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ObjectivesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OrangeRemote_AllDayEvent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OrangeRemoteLoot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OrangeRemoteWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OrbEtch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OrbitalBombardment",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PapayaCompanion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PapayaGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PapayaHub",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PapayaPostersBackup",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaAugments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaGameplayTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaStronghold",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PaprikaWeaponCases",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ParticleAccelerator",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PAVBoss_Alpha",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PAVBoss_Beta",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PAVBoss_Gamma",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PepperCatGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PepperCatShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_Empty_A",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_Empty_B",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week1",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week4",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week5",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week6",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PH_OrangeRemote_Week7",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PhoebeCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PhysicalImpactEffects",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PhysicsCurling",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PiewPistolGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Piggyback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PiperBootMapContentV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PistolCavalry",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayAsVillain",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayAsVillainBosses",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayAsVillainUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayerAIPet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayerAugments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayerAugmentsCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayerAugmentsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayerBoons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlaytimeRewards",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlotTwist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlotTwistTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "POIBanner",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "POIBanner_Dance",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "POIBanner_DanceUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PoliteDinner",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PoppySoap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PotatoCoaster",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PotatoCoasterUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PotteryHunterGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PowerHour_OrangeRemote_Substitute",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PowerHourCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PowerHourFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PowerHourUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PreEventSandbox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PremiumSupplyDrop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ProductConfigs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ProtoSwarm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PulseLancer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PulseLancer_Smash_HeroesAI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PulseLancer_SmashAI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PulseLancer_SmashMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PulseLancerEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PunchBerryMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuadCrasher",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuestTechRpcs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuestUtilities",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_Extractaganza",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache_ItemSet1",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache_ItemSet2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache_ItemSet3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache_ItemSet4",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache_ItemSet5",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ItemCache_ItemSet6",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_LlamaAnomaly",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_RandomBuffs_InfiniteAmmo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_RandomBuffs_SuperSprint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_RandomBuffs_Unstoppable",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_RandomBuffs_Vulture",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_ShockwaveHonk",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_SpriteSight",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_StabilizeAnomaly",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_StabilizeAnomalyUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_StormFocus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RA_VanillaSoda_Spawner",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RacketLung_Iron",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RadicalWeaponsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RandomPrefabSpawning",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RankedPermanentQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RankedTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Realm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Reboot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RelicChest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RelicExtractionGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RelicVault",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ReloadLandscapeShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RelootableChests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ReplayTesting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ResolveGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ResolveLoot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ResolveWarEffort",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RidingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RidingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftAnomalies_Ch7s3_Base",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftAnomaliesGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftAnomaliesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftChest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftEncounters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftGate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftGateBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftGauntletsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RiftPOICosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_ConfectionPop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_FabulousWind",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_LacedCrimp",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_LastHour",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_PitGlass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_Terrabulb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_TurboFueled",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RocketDrillGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RocketRamGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RocketRamGameplayUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RockVehicle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Rumble",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "S24PlayerAugments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "S40_STWPromo_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SalineCabinet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SaveFrameworkPersistence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SawbladeGun",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ScooterGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ScoutDroneFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SCPrinter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ScriptedObjectMovement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ScriptedObjectMovementNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ScubaBondOakGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SeasonPassHub",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SecretFacilityGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SegmentedReload",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SentryGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SevenCompoundGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SevenSlide",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SevenSlideUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SharedNPCAnims",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ShieldBubble",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ShootingGallery",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ShoppingCartMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SidewaysCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SidewaysGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SimpleBuild",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SimpleEdit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SkyDiving",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SlideImpulse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sliding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SlipperyMovement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SmartObjectDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SmartObjectLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SmartRifle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SoberBotany",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SonicSpearGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SoundIndicatorManager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SourSpawnMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparrowQuest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpatialGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpearShawlEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpearShawlExotics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpecialAbilitiesQuickbarUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpecialEventGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpecialSupplyDrop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpecialSurfaceCoverage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpecterGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpicyBerry",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpireBoss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpiresGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpireSharedAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpiresUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SplinterShotgun",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpotlightCamera",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpringEvent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteBoons_Ch7S3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionGameUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteInteractables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteLibrary_CH7S3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sprites",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sprites_EarthSprite",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sprites_WhisperRemedySweetSprite",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sprites_ZeroPointSprite",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquadLockGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquadLockSmartObject",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquareClubMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SrirachaRanch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SrirachaRanch_Figment_GolfCart",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SrirachaRanchValet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StainlessAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StaminaGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StarterIslandShopUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StealthSplash",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StormShieldModifier",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StormSickness",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunnyLomaBallGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseEnvGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseFlyingGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseFlyingUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseMedallionsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseMedallionsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Superstorm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SupplyDropRadioGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SurfaceSwimming",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TakedownMedallion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Tank",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TargetedBeam",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCake_IcyPondGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCake_PaV_02",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCake_PaV_03",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCake_PaV_04",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeAprilFoolsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeConsumables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeExotics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeIceGauntlets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeIceGauntletsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeIcyShins",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeLighthouseGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeMapMinigames",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeShardEnvGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeShredder",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeSpacePlungeShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeWeaponsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeaCakeZeroPointFracture",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeakCake_IceKing_Lieutenant",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TeamIndicatorAtlasOverride",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TechArtPerfTesting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Tempest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TensePotato",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TensePotatoDataTables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TextChatDynamicUIDefault",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ThemeParkStageEvent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ThermalLanceGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ThermiteGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TheShape",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ThornRipper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ThrownMarkingGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ThunderMeow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCrane_Swarm_Boss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCrane_ToyFox_Boss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneBoonGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneDropPod",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneExotics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneHoagie",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneMedallionGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCranePrototype",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneSharedActivitiesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneTransactionUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TidalCraneWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TideCompost_NPC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TimberStakeMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TofuGarden",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TofuGardenFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TofuGardenGameUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TofuGardenMatchEnd",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TofuGardenQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ToggleScopeModeInput",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ToggleZoomDMRGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TowHookWeapon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ToyFoxGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Train",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TrapSlotOverrides",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TrendConcentrate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TriggerHealZones",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TrolleyHillsEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Trophy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TwinStretchCorn",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Umbramolt_Kipper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UnableRoman",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UncleBrolly",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UnstableReactorGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UpgradableNPCs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Valet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValetTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValidCandy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VampireKatanaGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VampireStakeGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VanillaSoda",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VanillaSodaUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VaultingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VaultingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleCosmeticsAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleModsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleModTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleServiceStation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VendingMachine",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VictoryCrownsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VictoryCrownsRead",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorBoonsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorConsumablesGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorCoreGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorExotics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorMedallionsGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorTaxUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorVaultGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VividRazorWeaponGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Volumetrics_FN",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WallKick",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WallStick",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WarEffort",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WaterSlideMaterial",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WaterWalking",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponDisabler",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponModernizationFeatures",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponModsCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponModStation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponModStationUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponModsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponsUnvaulted",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WheelGrenade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WhisperRemedyAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WhisperRemedySour",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstate_BasilOkra",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstate_FactionChest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstate_LowGrav",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstate_ZPDashShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstateConsumables",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstateTech",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildEstateWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildlifeAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Wind",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WingSuit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WinterDecay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WiseOtter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WolfCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WolfContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "XpEverywhereUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "YokeHopFable",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "YokeHopKeeper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "YokeHopPlatter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "YokeHopUnkind",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "YokeHopUnkindUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ZeppelinGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ZeroPoint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Zipline",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ZiplineDeployer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ZPI",
+			"Enabled": true,
+			"Optional": true
+		}
+	],
+	"Sealed": true
+}

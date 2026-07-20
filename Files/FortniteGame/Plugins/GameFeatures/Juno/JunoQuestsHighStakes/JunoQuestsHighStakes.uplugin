@@ -1,0 +1,103 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHighStakes",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_HighStakes",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_Neptune",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestDisplayData",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestCategories",
+			"Enabled": true,
+			"Optional": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay/Quests",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoQuestsHighStakes",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

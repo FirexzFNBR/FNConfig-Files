@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.00",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"Plugins": [
+		{
+			"Name": "FMAudioReactiveData",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "SparksEffects",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

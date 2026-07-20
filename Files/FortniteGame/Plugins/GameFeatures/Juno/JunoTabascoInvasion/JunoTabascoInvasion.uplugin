@@ -1,0 +1,161 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.10",
+	"Modules": [
+		{
+			"Name": "JunoTabascoInvasionRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPersistence",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreaturesShared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemiesHedgeMalt",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoExclusive",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTome",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoGeneric_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoNPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortQuestEncounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEssences",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/Scenarios",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "JunoTabascoInvasion",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,86 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "29.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay/Quests",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoQuestsOsirisTownBuilder",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

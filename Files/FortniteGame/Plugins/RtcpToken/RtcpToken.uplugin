@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+
+	"FriendlyName": "Rtcp Token Plugin",
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Token Interface for Rtcp.",
+	"Category": "Epic Internal.Fortnite",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"EnabledByDefault": true,
+
+	"Modules": [
+		{
+			"Name": "RtcpToken",
+			"Type": "ServerOnly"
+		}
+	],
+
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemMcp",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EOSVoiceChatFN",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "22.10",
+	"Plugins": [
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		}
+	]
+}

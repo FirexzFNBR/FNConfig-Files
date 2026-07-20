@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "13.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicGamesEngineRestricted",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Dealership"
+}

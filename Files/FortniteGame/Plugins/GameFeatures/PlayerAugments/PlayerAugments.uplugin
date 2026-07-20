@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "23.00",
+	"Plugins": [
+		{
+			"Name": "PlayerAugmentsCode",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicRollTables",
+			"Enabled": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

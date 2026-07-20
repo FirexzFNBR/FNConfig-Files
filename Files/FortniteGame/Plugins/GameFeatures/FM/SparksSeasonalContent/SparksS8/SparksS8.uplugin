@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SparksS8",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": true,
+	"FortReleaseVersion": "28.00",
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM/SparksSeasonalContent",
+	"Plugins": [
+		{
+			"Name": "SparksLobby",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true
+		}
+	],
+	"NoCode": true
+}

@@ -1,0 +1,37 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LootTableExplorer",
+	"Description": "An in-game tool to display, search data in loot tables",
+	"Category": "Debugging",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EditorCustomVirtualPath": "Fortnite LootTable Explorer",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LootTableExplorer",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		}
+	],
+	"BuiltInInitialFeatureState": "Active"
+}

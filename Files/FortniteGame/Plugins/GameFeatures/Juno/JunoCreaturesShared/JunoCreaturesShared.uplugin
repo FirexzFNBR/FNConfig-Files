@@ -1,0 +1,102 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "28.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudio_Creatures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHeldObjectCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/AI/Creatures",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoCreaturesShared",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

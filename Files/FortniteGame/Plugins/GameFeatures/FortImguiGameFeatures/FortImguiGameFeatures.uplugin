@@ -1,0 +1,46 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Active",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "38.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "Fort Imgui Game Features",
+	"Description": "Game feature actions to support modular use of Fort imgui",
+	"Category": "Debugging",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FortImguiGameFeatures",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "ImGui",
+			"Enabled": true
+		}
+	]
+}

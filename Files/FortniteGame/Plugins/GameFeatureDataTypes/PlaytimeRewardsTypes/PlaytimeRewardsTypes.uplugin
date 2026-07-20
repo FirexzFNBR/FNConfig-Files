@@ -1,0 +1,21 @@
+﻿{
+	"FileVersion": 3,
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"FortReleaseVersion": "19.00",
+	"Modules": [
+		{
+			"Name": "FortnitePlaytimeRewardsTypes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DynamicXpTypes",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"Installed": false
+}

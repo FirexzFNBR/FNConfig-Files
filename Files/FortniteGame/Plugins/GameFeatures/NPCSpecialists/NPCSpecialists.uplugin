@@ -1,0 +1,83 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "AI/HiredAI",
+	"FortReleaseVersion": "26.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "HiredGuardCommands",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversationUI",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true
+		},
+		{
+			"Name": "RadicalWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true
+		},
+		{
+			"Name": "RiftEncounters",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCCore",
+			"Enabled": true
+		}
+	]
+}

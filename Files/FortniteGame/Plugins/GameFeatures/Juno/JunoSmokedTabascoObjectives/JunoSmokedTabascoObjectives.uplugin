@@ -1,0 +1,127 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.50",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "Smoked Tabasco Objectives",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHeldObjectCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoKlomboGP",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPersistence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoElementalGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoVehicles_StarterVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoMonastery_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Dragon",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Fire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoContractBoardUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoGeneric_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoGeneric_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/SmokedTabasco/Scenarios"
+}

@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Fortnite Spatial Metrics",
+	"Description": "Contains Fortnite internal Spatial Metrics",
+	"Category": "Profiling",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"EnabledByDefault": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FortSpatialMetrics",
+	"Modules": [
+		{
+			"Name": "FortSpatialMetrics",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EditorSpatialMetrics",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "SpatialMetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "WorldMetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "ImGui",
+			"Enabled": true
+		}
+	]
+}

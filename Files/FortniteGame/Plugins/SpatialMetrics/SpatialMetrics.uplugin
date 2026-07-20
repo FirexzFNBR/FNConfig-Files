@@ -1,0 +1,67 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Spatial Metrics",
+	"Description": "Used for gathering spatial metrics",
+	"Category": "Profiling",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"EnabledByDefault": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "SpatialMetrics",
+	"SupportedPrograms": [
+		"SpatialMetricsProfiler"
+	],
+	"Modules": [
+		{
+			"Name": "ResourceDependencies",
+			"Type": "RuntimeAndProgram",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SpatialMetricsCore",
+			"Type": "RuntimeAndProgram",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SpatialMetrics",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SpatialMetricsEditor",
+			"Type": "EditorAndProgram",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SpatialMetricsTest",
+			"Type": "RuntimeAndProgram",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "MemorySnapshot",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor",
+				"Program"
+			]
+		},
+		{
+			"Name": "WorldMetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "30.30",
+	"Modules": [
+		{
+			"Name": "BeanstalkManagersRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "1.0",
+	"FriendlyName": "BeanstalkManagers",
+	"Description": "Contains Beanstalk related Manager type classes",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "FNE/Beanstalk",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Beanstalk",
+			"Enabled": true
+		},
+		{
+			"Name": "BeanstalkCosmetics",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "BeanstalkManagers",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

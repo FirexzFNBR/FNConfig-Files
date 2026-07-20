@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Description": "This plugin, which has a FortReleaseVersion, sets up a dependency on the plugins we need which do not have FortReleaseVersion setings.",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Juno/Odyssey/Core",
+	"Plugins": [
+		{
+			"Name": "AtomFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "PCG",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoPluginDependencies",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

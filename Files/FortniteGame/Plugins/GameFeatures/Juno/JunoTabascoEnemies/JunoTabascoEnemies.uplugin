@@ -1,0 +1,266 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoComponentCrafting",
+			"Enabled": true
+		},
+		{
+			"Name": "AICore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoElementalGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoNeptune_Enemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemyWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponScythe",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponScythe",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabasco_LivingWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMint",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoLemon",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPlain",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoTwist",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMaple",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreaturesShared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemiesHedgeMalt",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNTabascoTwist",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNComponentCraftingCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "MarsEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Fire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_bearIce",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/AI",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoTabascoEnemies",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

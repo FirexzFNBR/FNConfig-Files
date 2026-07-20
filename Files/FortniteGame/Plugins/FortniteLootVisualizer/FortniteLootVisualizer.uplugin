@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Fortnite Loot Visualizer",
+	"Description": "Editor tool for visualizing Fortnite loot table hierarchies, probabilities, and validation",
+	"Category": "Editor Tools",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"CanContainContent": true,
+	"EditorCustomVirtualPath": "Fortnite Loot Visualizer",
+	"IsBetaVersion": true,
+	"Installed": false,
+	"EnabledByDefault": true,
+	"Modules": [
+		{
+			"Name": "FortniteLootVisualizer",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		}
+	]
+}

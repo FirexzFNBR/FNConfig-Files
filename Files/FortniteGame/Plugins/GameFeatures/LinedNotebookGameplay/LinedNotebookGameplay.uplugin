@@ -1,0 +1,66 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "30.20",
+	"EditorCustomVirtualPath": "Ch5S1",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LinedNotebookGameplayRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true
+		},
+		{
+			"Name": "LinedNotebookConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "LinedNotebookTags",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	]
+}

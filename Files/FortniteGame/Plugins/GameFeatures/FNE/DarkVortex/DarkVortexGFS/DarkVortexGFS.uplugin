@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/DarkVortex",
+	"FortReleaseVersion": "41.20",
+	"VerseVersion": 0,
+	"IsGameFeatureSet": true,
+	"CookAsDLC": "Creative",
+	"ProductChunkId": 13,
+	"RequiredEntitlements": {
+		"Create": {
+			"VKCreateUGCEpicDeveloper": "13bed52c90d4405abb84bb59f1e9c3ad",
+			"VKIPAgreement": "32927964d7964134b0f80d20ab02d082"
+		}
+	},
+	"Plugins": [
+		{
+			"Name": "CR_Legacy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkV_Meadow_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkV_Meadow_Comp",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortex_ExtraAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortexCosmetics",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortexIslandUIOverride",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortexMeadowCassia",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortexMeadowDrosera",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortexMeadowHeliconia",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "DarkVortexSharedVFX",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Lab_Assets",
+			"Enabled": true,
+			"Optional": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

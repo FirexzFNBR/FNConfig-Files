@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"Plugins": [
+		{
+			"Name": "CRD_LimeAssembleCore",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "AtomFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "FNE/Lime/Devices"
+}

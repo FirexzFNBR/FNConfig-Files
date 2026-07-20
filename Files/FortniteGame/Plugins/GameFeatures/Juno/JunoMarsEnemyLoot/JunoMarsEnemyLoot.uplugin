@@ -1,0 +1,79 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "36.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEssences",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMarsCraftingMaterials",
+			"Enabled": true
+		},
+		{
+			"Name": "MarsEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BruteSpire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponPlasmaPistols",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponTwoHandedHammer",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponDualDaggers",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPowerSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_SpireBoss",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay/Mars"
+}

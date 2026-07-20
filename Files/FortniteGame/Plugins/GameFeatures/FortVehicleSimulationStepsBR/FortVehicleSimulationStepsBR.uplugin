@@ -1,0 +1,17 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Registered",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "FortReleaseVersion": "30.00",
+	"Plugins": [
+		{
+			"Name": "FortVehicleSimulationSteps",
+			"Enabled": true
+		}
+	]
+}

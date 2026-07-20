@@ -1,0 +1,142 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Juno/Common/AI",
+	"Modules": [
+		{
+			"Name": "JunoEnemiesRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHeldObjectCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudio_Creatures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoDagger",
+			"Enabled": true
+		},
+		{
+			"Name": "AICore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "JunoEnemies",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

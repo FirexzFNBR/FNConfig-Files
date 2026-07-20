@@ -1,0 +1,253 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.50",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JunoMarsHeroesRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAdventures",
+			"Enabled": true
+		},
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHighStakes",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEssences",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoDagger",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoArtWeaponNeptune",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHeavyCrossbow",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoRuneForge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTome",
+			"Enabled": true
+		},
+		{
+			"Name": "Juno_NeptuneEnv",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBattleBus",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoControlUnit",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPowerSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoVehicles_StarterVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWheelsDemo",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoRemoteThruster",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoKlomboGP",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoStationaryCannon",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoComponentCrafting",
+			"Enabled": true
+		},
+		{
+			"Name": "AmbientAudioContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNNPCBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponBase",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWorldManagement",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCaves_Common",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMarsCraftingMaterials",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_Hub_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPlayerRoles",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoNPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHunterItems",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoMistRavenItems",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoRiftWizardItems",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "JunoMarsHeroes",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay/Mars"
+}

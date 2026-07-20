@@ -1,0 +1,57 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Active",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.00",
+	"Modules": [
+		{
+			"Name": "BeatSyncedAnimRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "BeatSyncedAnimK2Nodes",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BeatSyncedAnimMetaData",
+			"Enabled": true
+		},
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": true
+		},
+		{
+			"Name": "MusicEventSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		}
+	]
+}

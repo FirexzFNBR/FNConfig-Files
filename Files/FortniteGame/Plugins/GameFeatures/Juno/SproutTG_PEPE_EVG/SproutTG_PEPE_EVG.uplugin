@@ -1,0 +1,147 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "38.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Handhelds",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutSmartObject",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_Porridge_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_PorridgeHome_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_CookFishCollect",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_CookFishCollect",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_PERS",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Currency",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Sprout/Themes/Festivals",
+	"NoCode": true,
+	"LocalizationTargets": [
+		{
+			"Name": "SproutTG_PEPE_EVG",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

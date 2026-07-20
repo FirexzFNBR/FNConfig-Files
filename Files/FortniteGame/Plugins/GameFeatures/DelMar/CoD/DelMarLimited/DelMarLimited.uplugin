@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "DelMar",
+	"FortReleaseVersion": "28.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [],
+	"Plugins": [
+		{
+			"Name": "DelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "VKPlay",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": []
+}

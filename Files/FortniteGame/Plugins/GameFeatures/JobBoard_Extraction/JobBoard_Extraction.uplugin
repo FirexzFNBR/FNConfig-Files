@@ -1,0 +1,115 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "BattlePassS41_Quests",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonCartWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ExtractionRelicExtractor",
+			"Enabled": true
+		},
+		{
+			"Name": "FillerGrunt",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversationUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Gifting",
+			"Enabled": true
+		},
+		{
+			"Name": "Hera",
+			"Enabled": true
+		},
+		{
+			"Name": "JobBoard",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "OrangeRemoteWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "RelicChest",
+			"Enabled": true
+		},
+		{
+			"Name": "ShieldBubble",
+			"Enabled": true
+		},
+		{
+			"Name": "SpriteExtractionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TeaCakeWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "VendingMachine",
+			"Enabled": true
+		},
+		{
+			"Name": "MoonFlaxWeaponGameplay",
+			"Enabled": true
+		}
+	],
+	"SunsetFortReleaseVersion": "42.00"
+}

@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.00",
+	"EditorCustomVirtualPath": "PowerHour",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Plugin to use the Power Hour plugin in lobby (frontend UI).",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "BattleRoyaleFrontend",
+			"Enabled": true
+		},
+		{
+			"Name": "BusLoadoutItemGrants",
+			"Enabled": true
+		},
+		{
+			"Name": "PowerHourCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,211 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "CH6S4",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "DragonPopGameplayContent",
+			"Enabled": true
+		},
+		{
+			"Name": "FlexLegendWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VendingMachine",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "ThermalLanceGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RocketDrillGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Medkit",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorConsumablesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "AgileChugJugGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MedCloud",
+			"Enabled": true
+		},
+		{
+			"Name": "ThrownMarkingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MoonFlaxWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "HopscotchWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		},
+		{
+			"Name": "MarketGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUnvaulted",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployedCoverGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Hermes",
+			"Enabled": true
+		},
+		{
+			"Name": "ThermiteGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "LaunchPadItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RocketRamGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployableTurretGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "EMPGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponMods",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaWeaponCases",
+			"Enabled": true
+		},
+		{
+			"Name": "DaisyWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneBoonGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "CrimsonMist",
+			"Enabled": true
+		},
+		{
+			"Name": "MusicEncounter",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "OrbitalBombardment",
+			"Enabled": true
+		},
+		{
+			"Name": "PiewPistolGameplay",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "DelMar",
+	"FortReleaseVersion": "29.40",
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [
+		{
+			"Name": "DelMarFrontend",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DelMarSharedUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlFlows",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkLoadouts",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarCharacterCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "DiscoveryBrowser",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicMediaServices",
+			"Enabled": true
+		},
+		{
+			"Name": "LinkCodes",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemMcp",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Squeegee",
+			"Enabled": true
+		},
+		{
+			"Name": "UIChart",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "DelMarFrontend",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": true,
+	"builtInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/PerfectKiwi",
+	"FortReleaseVersion": "37.30",
+	"ValkyrieSettings": {
+		"libraryFolderMode": "Absent",
+		"libraryCustomPath": ""
+	},
+	"Plugins": [
+		{
+			"Name": "PerfectKiwiGFSMetaData",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "Fortnite Runtime Core",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "22.30",
+	"Modules": [
+		{
+			"Name": "FortniteRuntimeCore",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "36.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Modules": [
+		{
+			"Name": "CherrySmokeChestGameplayRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "Ch6S3",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "KeysAndLocks",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeChestParent",
+			"Enabled": true
+		}
+	]
+}

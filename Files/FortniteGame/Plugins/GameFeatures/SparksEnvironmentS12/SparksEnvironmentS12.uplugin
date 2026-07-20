@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "SparksEnvironmentS12",
+	"Description": "Sparks map seasonal content S12",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FM/SparksSeasonalContent",
+	"NoCode": true,
+	"Plugins": [
+		{
+			"Name": "SparksMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksLobby",
+			"Enabled": true
+		}
+	]
+}

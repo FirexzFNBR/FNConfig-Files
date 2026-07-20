@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RubberBandPitchShifter - Wrapper for Elastique Pitch Shifter",
+	"Description": "Implementation and dependencies of the Elastique Pitch Shifter to work with Fusion Voices",
+	"Category": "Audio",
+	"CreatedBy": "Epic Games, Inc. - Harmonix GenTech",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "RubberBandPitchShifter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		}
+	]
+
+}

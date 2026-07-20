@@ -1,0 +1,192 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"EditorCustomVirtualPath": "Juno/Sprout/Base",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SproutCoreEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SproutCoreNative",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPersistence",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoArtGameplayItem",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoArtBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "FNDynamicStreamingSources",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNTG_Consumable",
+			"Enabled": true
+		},
+		{
+			"Name": "Monologue",
+			"Enabled": true
+		},
+		{
+			"Name": "ChatCompletion",
+			"Enabled": true
+		},
+		{
+			"Name": "FNRedwood",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacterNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FNFeelings",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoStamina",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "SproutCore",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

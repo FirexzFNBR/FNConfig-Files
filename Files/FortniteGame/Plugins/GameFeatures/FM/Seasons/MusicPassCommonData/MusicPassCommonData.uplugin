@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MusicPassCommonData",
+	"Description": "This plugin holds Music Pass data assets thats are common between ALL Music Pass seasons.",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FM/Seasons",
+	"BuiltInInitialFeatureState": "Active",
+	"FortReleaseVersion": "32.00",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"Plugins": [
+		{
+			"Name": "SeasonPass",
+			"Enabled": true
+		},
+		{
+			"Name": "SeasonPassHub",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamCosmetics",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "MusicPassCommonData",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

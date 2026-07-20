@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/SolidWave/SWave_Matrix",
+	"FortReleaseVersion": "36.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SolidWaveTags",
+			"Enabled": true
+		},
+		{
+			"Name": "SolidWave_ExtraAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HidingProp_SwashTide",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Simple_Voting_Option",
+			"Enabled": true
+		}
+	]
+}

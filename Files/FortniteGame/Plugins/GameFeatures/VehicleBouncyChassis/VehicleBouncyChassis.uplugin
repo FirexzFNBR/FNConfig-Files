@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": false,
+	"NoGameFeatureContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "Vehicles",
+	"FortReleaseVersion": "13.40",
+	"Modules": [
+		{
+			"Name": "VehicleBouncyChassisRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "VehicleBouncyChassisEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AnimationBudgetAllocator",
+			"Enabled": true
+		}
+	]
+}

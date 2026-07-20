@@ -1,0 +1,42 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "28.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "JunoKnowledgeDebugger",
+	"Description": "A plugin to house ImGui debugging for Juno Knowledge. Requires Unreal ImGui: https://github.com/segross/UnrealImGui (c) Sebastian Gross. Uses ImGui: https://github.com/ocornut/imgui (c) Omar Cornut. MIT License.",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JunoKnowledgeDebugger",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay"
+}

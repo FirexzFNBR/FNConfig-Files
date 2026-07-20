@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"DODTestDoesGameSkipLoadingAsBuiltIn": "true",
+	"DoesGameSkipLoadingAsBuiltIn": "false",
+	"Modules": [
+		{
+			"Name": "PilgrimQPSharedRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "PilgrimQPShared",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

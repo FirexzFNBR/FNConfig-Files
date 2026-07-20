@@ -1,0 +1,58 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Device to create a schedule for video playback.",
+	"Category": "Game Features",
+	"CreatedBy": "Epic Games Inc.",
+	"CanContainContent": true,
+	"CanContainVerse": false,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"Hotfixable": true,
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"FortReleaseVersion": "26.00",
+	"EditorCustomVirtualPath": "Creative",
+	"Modules": [
+		{
+			"Name": "CRD_VideoSchedule",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Curie",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayMessages",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		}
+	],
+	"FriendlyName": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_VideoSchedule",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,80 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Ch4S4",
+	"FortReleaseVersion": "26.00",
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayerAugments",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayerAugmentsCode",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterPlayerAugments",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "KatanaGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "EMPGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployableTurretGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoPlayerAugments",
+			"Enabled": true
+		},
+		{
+			"Name": "S24PlayerAugments",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayerAugmentGameplayLibrary",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

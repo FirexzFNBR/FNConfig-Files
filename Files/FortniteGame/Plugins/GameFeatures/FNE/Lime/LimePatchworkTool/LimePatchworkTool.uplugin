@@ -1,0 +1,73 @@
+{
+	"FortReleaseVersion": "30.30",
+	"NoRedist": false,
+	"EnabledByDefault": false,
+	"Hotfixable": true,
+	"BuiltInInitialFeatureState": "Installed",
+	"EditorCustomVirtualPath": "FNE/Lime/Weapons/Tools/PatchworkTool",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "LimeWeaponsCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeNative",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "Fabric",
+			"Enabled": true
+		},
+		{
+			"Name": "FabricSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "ToggleScopeModeInput",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAdventures",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoRiftSpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions_Neptune",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions_Klombo",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersStatuePuzzle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoNeptuneGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusicNeptuneContent",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "FortQuestEncounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCaves_Common",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTeleport",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Neptune/Scenarios",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoScenarios_Dungeon_Neptune",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

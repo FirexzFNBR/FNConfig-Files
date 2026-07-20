@@ -1,0 +1,152 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"EditorCustomVirtualPath": "FNE/Akita",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "AkitaCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HeroDevice",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "PAVBoss_Alpha",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayAsVillain",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Ranged",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Lobster",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEGuineaPig",
+			"Enabled": true
+		},
+		{
+			"Name": "FNECrustyChain",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEClearShell",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEShockGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEBrinePot",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_DustyAnvil",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Cosmos_Sniper",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_BadgerLantern",
+			"Enabled": true
+		},
+		{
+			"Name": "MarksmanVisorGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGloves",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEChillyHammer",
+			"Enabled": true
+		},
+		{
+			"Name": "FeralCorgiGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ThermiteGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TowHookWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "JethroWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Jethro_Weapons",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEIronPuck",
+			"Enabled": true
+		},
+		{
+			"Name": "Jethro",
+			"Enabled": true
+		},
+		{
+			"Name": "PlotTwist",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEBoldTiger",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEGalileoBun",
+			"Enabled": true
+		},
+		{
+			"Name": "FNEBraveCrown",
+			"Enabled": true
+		},
+		{
+			"Name": "FNECalmRock",
+			"Enabled": true
+		}
+	]
+}

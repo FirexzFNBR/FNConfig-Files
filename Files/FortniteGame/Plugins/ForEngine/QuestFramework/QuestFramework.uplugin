@@ -1,0 +1,121 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Quest Framework",
+	"Description": "Metaverse supported quest framework",
+	"VerseScope": "PublicAPI",
+	"Category": "Gameplay",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainVerse": true,
+	"CanContainContent": true,
+	"FortReleaseVersion": "40.00",
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ModularQuest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "Quest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "BasicQuest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "QuestPersistence",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "QuestDefinitionAsset",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "QuestTests",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping", "Test" ]
+		},
+		{
+			"Name": "QuestDebugger",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping", "Test" ]
+		},
+		{
+			"Name": "QuestDebuggerRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping", "Test" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityActor",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityCore",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VersePresentation",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFrameworkTests",
+			"Enabled": true,
+			"TargetConfigurationDenyList": [ "Shipping", "Test" ]
+		},
+		{
+			"Name": "SlateIM",
+			"Enabled": true,
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TechAnim Budget",
+	"Description": "In-editor (PIE) dockable tab showing per-thread TechAnim cost (cloth, AnimDynamics, ControlRig, RBAN) for budgeting.",
+	"Category": "Debugging",
+	"CreatedBy": "Matt Reeves",
+	"CreatedByURL": "",
+	"EditorCustomVirtualPath": "Fortnite TechAnim Budget",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TechAnimBudget",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{ "Name": "SlateIM", "Enabled": true }
+	]
+}

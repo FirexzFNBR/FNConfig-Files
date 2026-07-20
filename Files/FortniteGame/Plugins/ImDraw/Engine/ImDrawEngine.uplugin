@@ -1,0 +1,28 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "0.1",
+	"FriendlyName" : "ImDraw Engine",
+	"Description" : "Better, simpler, yet more powerful debug drawing tools.",
+	"Category": "Debug",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : true,
+	"Modules": [
+		{
+			"Name": "ImDrawEngine",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+	]
+}

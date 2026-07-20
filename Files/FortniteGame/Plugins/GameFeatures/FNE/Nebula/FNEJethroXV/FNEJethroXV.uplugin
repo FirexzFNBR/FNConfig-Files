@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.30",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FNE/Nebula/SW_Vehicles",
+	"Plugins": [
+		{
+			"Name": "CRD_VehicleSpawners",
+			"Enabled": true
+		},
+		{
+			"Name": "JethroV",
+			"Enabled": true
+		},
+		{
+			"Name": "JethroXV",
+			"Enabled": true
+		}
+	]
+}

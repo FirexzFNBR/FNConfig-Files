@@ -1,0 +1,62 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "33.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"VerseScope": "InternalAPI",
+	"VersePath": "/epicgames@fortnite.com/kurai_environment",
+	"VerseAPI": 1,
+	"CookAsDLC": "Creative",
+	"Plugins": [
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicBaseTextures",
+			"Enabled": true
+		},
+		{
+			"Name": "FeralCorgiGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteBaseMaterials",
+			"Enabled": true
+		},
+		{
+			"Name": "FortWater",
+			"Enabled": true
+		},
+		{
+			"Name": "Hermes",
+			"Enabled": true
+		},
+		{
+			"Name": "Train",
+			"Enabled": true
+		}
+	],
+	"ValkyrieSettings":
+	{
+		"libraryFolderMode": "Absent",
+		"libraryCustomPath": ""
+	},
+	"builtInAutoActivate": true,
+	"EnableSceneGraph": true
+}

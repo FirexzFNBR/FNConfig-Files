@@ -1,0 +1,58 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Online Services MCP",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"Description" : "Access to MCP platform",
+	"Category" : "Online Platform",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "https://epicgames.com",
+	"EnabledByDefault" : false,
+
+    "Modules": [
+        {
+            "Name": "OnlineServicesMcp",
+            "Type": "Runtime",
+            "LoadingPhase" : "Default"
+        }
+    ],
+	"Plugins": [
+		{
+			"Name": "EOSShared",
+			"Enabled": true
+		},
+		{
+			"Name": "JWT",
+			"Enabled": true
+		},
+		{
+			"Name": "MatchmakingService",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServices",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesOSSAdapter",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemMcp",
+			"Enabled": true
+		}
+	]
+}

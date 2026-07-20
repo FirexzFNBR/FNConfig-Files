@@ -1,0 +1,78 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "24.00",
+	"BuiltInInitialFeatureState": "Active",
+	"bIsHidden": true,
+	"Description": "This is a Plugin for Debug UI, can be used to add debugging widgets in a layer on top of all screen UI for debug purposes in non shipping builds",
+	"Modules": [
+		{
+			"Name": "DebugUI_Director",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": ["Shipping"]
+		},
+		{
+			"Name": "DebugUI_Matchmaking",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": ["Shipping"]
+		},
+		{
+			"Name": "DebugUI_ReportingVoice",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": ["Shipping"]
+		},
+		{
+			"Name": "DebugUI_DiscoPerfMem",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": ["Shipping"]
+		},
+		{
+			"Name": "DebugUI_TextChatV3",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": ["Shipping"]
+		},
+		{
+			"Name": "DebugUI_Evo",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": ["Shipping"]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlFlows",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "LinkCodes",
+			"Enabled": true
+		},
+		{
+			"Name": "StateGraph",
+			"Enabled": true
+		}
+	]
+}

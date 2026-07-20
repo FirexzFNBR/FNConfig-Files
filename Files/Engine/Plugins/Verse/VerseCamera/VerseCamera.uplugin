@@ -1,0 +1,91 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Verse Camera",
+	"Description": "Verse Camera",
+	"Category": "Verse",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"FortReleaseVersion": "41.10",
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VerseCamera",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "VerseCameraTestSuite",
+			"Type": "Runtime",
+			"TargetConfigurationDenyList": [ "Shipping", "Test" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseModifier",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseRestricted",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseTags",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicGamesEngineRestricted",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicGamesTemporary",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityActor",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFrameworkTests",
+			"Enabled": true,
+			"TargetConfigurationDenyList": [ "Shipping", "Test" ]
+		},
+		{
+			"Name": "GameplayCameras",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSpatialMath",
+			"Enabled": true
+		}
+	]
+}

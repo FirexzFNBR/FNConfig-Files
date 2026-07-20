@@ -1,0 +1,74 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "36.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "Ai/Wildlife/Sprites",
+	"Plugins": [
+		{
+			"Name": "Sprites",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalShrineGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "AICore",
+			"Enabled": true
+		},
+		{
+			"Name": "Sprites_ZeroPointSprite",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TargetedBeam",
+			"Enabled": true
+		},
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "Sprites_WhisperRemedySweetSpriteRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

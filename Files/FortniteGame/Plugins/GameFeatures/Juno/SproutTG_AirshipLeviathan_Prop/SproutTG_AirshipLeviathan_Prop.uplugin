@@ -1,0 +1,107 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNVehicleAirship",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutSmartObject",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_AirshipLeviathan_Prop",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Sprout/Themes/Theme_Airship",
+	"NoCode": true,
+	"LocalizationTargets": [
+		{
+			"Name": "SproutTG_AirshipLeviathan_Prop",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

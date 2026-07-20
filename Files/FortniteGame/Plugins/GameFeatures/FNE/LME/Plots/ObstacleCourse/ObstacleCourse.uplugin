@@ -1,0 +1,99 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": true,
+    "BuiltInAutoActivate": false,
+    "FortReleaseVersion": "39.00",
+	"EditorCustomVirtualPath": "FNE/Lime/Plots",
+	"Plugins": [
+		{
+			"Name": "CR_Legacy",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Modular",
+			"Enabled": true
+		},
+		{
+			"Name": "Suburban_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCoreDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PlayerSpawn",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PropMover",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModalDialog",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HUDController",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_GameEnd",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_CameraModes",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Water",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Props",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Switch",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VolumetricRegion",
+			"Enabled": true
+		},
+		{
+			"Name": "Musical_Walk_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "Primitives_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeBurstPulse",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeCoconut",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_SkydomeDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "LimePlayerSpawn",
+			"Enabled": true
+		}
+	]
+
+}

@@ -1,0 +1,58 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "13.40",
+	"EditorCustomVirtualPath": "Vehicles",
+	"Modules": [
+		{
+			"Name": "VehicleCosmeticsAudioRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "VehicleCosmeticsAudioEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "AssembledMeshSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioMotorSim",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkLoadouts",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortAthenaVehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,242 @@
+{
+	"FileVersion": 3,
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"DODTestDoesGameSkipLoadingAsBuiltIn": "true",
+	"Modules": [
+		{
+			"Name": "PilgrimQuickplayRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "PilgrimQuickplayUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCore",
+			"Enabled": true
+		},
+		{
+			"Name": "MidiInputInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimCore",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimQPShared",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCharacterCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCharacterFull",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMicrophone",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMusicPlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "FMAudioReactiveData",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCalibration",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayStateMachine",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true
+		},
+		{
+			"Name": "Ascender",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCameraDirector",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "BeatSyncedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksLobby",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksPermanentQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "ReplicationGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksUICommon",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "XpEverywhereUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksStageShow",
+			"Enabled": true
+		},
+		{
+			"Name": "Locker",
+			"Enabled": true
+		},
+		{
+			"Name": "DSSNetworkReplayStreamer",
+			"Enabled": true
+		},
+		{
+			"Name": "EmoteWheel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PolygonalInputZones",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortPlaylistTravel",
+			"Enabled": true
+		},
+		{
+			"Name": "FortPlaylistTravelUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "VoiceChatManager",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "PilgrimQuickplay",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

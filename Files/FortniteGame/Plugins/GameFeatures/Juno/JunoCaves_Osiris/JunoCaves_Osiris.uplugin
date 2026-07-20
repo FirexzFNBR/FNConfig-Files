@@ -1,0 +1,130 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "29.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_ColonyOsirisBunker",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_ColonyOsirisBunker",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoOsirisGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHeldObjectCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios_Dungeon_Osiris",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Osiris/World",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoCaves_Osiris",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

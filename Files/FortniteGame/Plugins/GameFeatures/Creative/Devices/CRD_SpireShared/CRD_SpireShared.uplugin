@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "SpireShared",
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative/Devices",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.00",
+	"Plugins": [
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "FNDynamicScalability",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [
+		{
+			"Name": "FNDynamicScalability",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,20 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "CanContainVerse": true,
+    "VersePath": "/Fortnite.com",
+    "VerseScope": "PublicAPI",
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Registered",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "FortReleaseVersion": "40.00",
+    "Plugins": [
+        {
+            "Name": "Itemization",
+            "Enabled": true
+        }
+    ]
+}

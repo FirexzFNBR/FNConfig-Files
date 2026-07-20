@@ -1,0 +1,55 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/Hermes/S33/KappaInc",
+	"FortReleaseVersion": "40.00",
+	"Plugins": [
+		{
+			"Name": "Kappa_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "Hermes",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCoreMaterials",
+			"Enabled": true
+		},
+		{
+			"Name": "AmbientAudioContent",
+			"Enabled": true
+		},
+		{
+			"Name": "AmbientAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "SoberBotany",
+			"Enabled": true
+		},
+		{
+			"Name": "RRails_Assets",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

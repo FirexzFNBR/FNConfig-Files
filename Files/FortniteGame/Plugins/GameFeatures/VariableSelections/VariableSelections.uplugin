@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VariableSelections",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"FortReleaseVersion": "13.00",
+
+	"Modules": [
+		{
+			"Name": "VariableSelectionsRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+
+	"Plugins": [
+		{
+			"Name": "DataRegistry",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "WorldConditions",
+			"Enabled": true
+		}
+	]
+}

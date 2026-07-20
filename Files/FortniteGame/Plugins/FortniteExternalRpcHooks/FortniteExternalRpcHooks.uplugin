@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Fortnite External RPC Hooks",
+	"Description": "Reflection-based HTTP/MCP endpoint generator for Fortnite RPCs. Excluded from shipping builds.",
+	"Category": "Automation",
+	"CreatedBy": "Epic Games Online QA",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EnabledByDefault": false,
+	"Plugins": [
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		}
+	],
+	"SupportedPrograms": [ "FortniteExternalRpcHooksTests" ],
+	"Modules": [
+		{
+			"Name": "FortniteExternalRpcHooks",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	]
+}

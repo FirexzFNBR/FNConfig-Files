@@ -1,0 +1,150 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Scenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoMonastery_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnv",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_GenericFloors_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_MaskMakerCitadel_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_MaskMakerCitadel_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoResearch",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_TempleScenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMint",
+			"Enabled": true
+		},
+		{
+			"Name": "TabascoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Monastery",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPersistence",
+			"Enabled": true
+		},
+		{
+			"Name": "FortQuestEncounters",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/Scenarios",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoTabascoPOI_ElementalShrine",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

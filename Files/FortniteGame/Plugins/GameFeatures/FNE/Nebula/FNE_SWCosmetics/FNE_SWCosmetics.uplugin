@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FNE/Nebula/SW_Cosmetics",
+	"Plugins": [
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "DefaultCosmeticsAthena",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_DisguiseDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "SW_CosmeticTags",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_ForwardLake_Dire",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_SW_UI_Renders",
+			"Enabled": true
+		}
+	]
+}

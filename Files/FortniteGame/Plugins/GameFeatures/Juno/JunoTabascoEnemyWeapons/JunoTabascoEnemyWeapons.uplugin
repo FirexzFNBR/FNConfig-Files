@@ -1,0 +1,122 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Weapon assets (BPs and WIDs) first introduced in the Tabasco update that can potentially be shared with other features/plugins later on down the line",
+	"Category": "",
+	"CreatedBy": "Bob Churchill",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoComponentCrafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponScythe",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponScythe",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMaple",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPlain",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponBase",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/Gameplay",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoTabascoEnemyWeapons",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

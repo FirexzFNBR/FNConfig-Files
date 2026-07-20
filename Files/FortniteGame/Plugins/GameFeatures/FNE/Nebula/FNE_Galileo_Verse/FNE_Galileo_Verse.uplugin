@@ -1,0 +1,75 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"VersePath": "/Fortnite.com/StarWars",
+	"VerseScope": "InternalAPI",
+	"Modules": [
+		{
+			"Name": "FNE_Galileo_VerseRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "Galileo",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Itemization",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "PlotTwist",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseColors",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Lobster",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "FNE/Nebula",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

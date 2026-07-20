@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/SolidWave/SWave_Core",
+	"FortReleaseVersion": "36.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SolidWaveTags",
+			"Enabled": true
+		},
+		{
+			"Name": "SWave_Quill_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "SWave_Beacon_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "SolidWave_ExtraAssets",
+			"Enabled": true
+		}
+	]
+}

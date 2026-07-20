@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "GDEV Shared Lighting",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "",
+	"FortReleaseVersion": "28.00",
+	"Modules": [
+		{
+			"Name": "GDEVSharedLighting",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "1.0",
+	"Description": "Plugin to share Lighting content and native classes across all FN projects.",
+	"Category": "Lighting",
+	"CreatedBy": "Epic Games Tech Art Team",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

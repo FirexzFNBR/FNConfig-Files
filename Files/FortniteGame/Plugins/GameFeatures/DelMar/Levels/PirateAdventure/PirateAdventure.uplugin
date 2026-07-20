@@ -1,0 +1,129 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "DelMar/Levels",
+	"FortReleaseVersion": "33.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Plugins": [
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCoreDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VFX_Spawner",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_CrowdVolume",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Modular",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Props",
+			"Enabled": true
+		},
+		{
+			"Name": "CRP_Jungle",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarGame",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarTrack",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortWater",
+			"Enabled": true
+		},
+		{
+			"Name": "LinkCodes",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "UIChart",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "Pirate Adventure",
+	"Description": "Race through a jungle themed environment with hints of pirate activity",
+	"Category": "",
+	"CreatedBy": "3DLab",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"UploadToArtifactService": true,
+	"CachedBySource": "BuildPatchServices",
+	"PerPlatformUploadToArtifactService": [
+		{
+			"Platform": "Linux",
+			"Value": false
+		},
+		{
+			"Platform": "LinuxArm64",
+			"Value": false
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "PirateAdventure",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"ProductChunkId": 4642,
+	"ParentChunkId": 40
+}

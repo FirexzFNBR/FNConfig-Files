@@ -1,0 +1,38 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SGSR",
+	"Description": "Snapdragon Game Super Resolution",
+	"Category": "Rendering",
+	"CreatedBy": "Qualcomm",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SGSR",
+			"Type": "Runtime",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [ "Win64", "Android" ],
+			"TargetDenyList": [ "Server" ]
+		},
+		{
+			"Name": "SGSRTUModule",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [ "Win64", "Android" ],
+			"TargetDenyList": [ "Server" ]
+		},
+		{
+			"Name": "SGSRSUModule",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [ "Win64", "Android" ],
+			"TargetDenyList": [ "Server" ]
+		}
+	]
+}

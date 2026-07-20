@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FortNPCCharacterMovieSceneBindings",
+	"Description": "Custom Movie Scene Bindings for Fortnite NPC Characters",
+	"Category": "Movie Scene Bindings",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"FortReleaseVersion": "37.30",
+	"BuiltInInitialFeatureState": "Registered",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FortNPCCharacterMovieSceneBindings",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CRD_AISpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseFortnite",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "Ch7S2",
+	"Plugins": [
+		{
+			"Name": "RA_ItemCache",
+			"Enabled": true
+		},
+		{
+			"Name": "RiftAnomaliesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MarketGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonPopGameplayContent",
+			"Enabled": true
+		},
+		{
+			"Name": "RiftChest",
+			"Enabled": true
+		},
+		{
+			"Name": "RadicalWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RocketRamGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "HopscotchWeaponsGameplay",
+			"Enabled": true
+		}
+	]
+}

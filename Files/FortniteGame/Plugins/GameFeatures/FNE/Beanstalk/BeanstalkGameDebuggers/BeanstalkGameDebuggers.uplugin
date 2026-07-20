@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BeanstalkGameDebuggers",
+	"EditorCustomVirtualPath": "FNE/Beanstalk",
+	"Description": "A plugin containing debuggers for various Beanstalk systems. Requires Unreal ImGui: https://github.com/segross/UnrealImGui (c) Sebastian Gross. Uses ImGui: https://github.com/ocornut/imgui (c) Omar Cornut. MIT License.",
+	"Category": "Debugging",
+	"CreatedBy": "Mediatonic",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"FortReleaseVersion": "30.30",
+	"Modules": [
+		{
+			"Name": "BeanstalkGameDebuggersRuntime",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Beanstalk",
+			"Enabled": true
+		}
+	],
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "BeanstalkGameDebuggers",
+			"LoadingPolicy": "Editor",
+			"ConfigGenerationPolicy": "Never"
+		}
+	]
+}

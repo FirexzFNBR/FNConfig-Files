@@ -1,0 +1,68 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+ 	"EditorCustomVirtualPath": "Vehicles",
+    "BuiltInInitialFeatureState": "Registered",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "FortReleaseVersion": "16.00",
+	"Modules": [
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
+		},
+		{
+			"Name": "MotoSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "Curie",
+			"Enabled": true
+		},
+		{
+			"Name": "NetworkPrediction",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayCameras",
+			"Enabled": true
+		},
+		{
+			"Name": "AsyncObject",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,94 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "DelMar/Levels",
+	"FortReleaseVersion": "33.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Plugins": [
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_CrowdVolume",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarGame",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarTrack",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "LinkCodes",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "UIChart",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"UploadToArtifactService": true,
+	"CachedBySource": "BuildPatchServices",
+	"PerPlatformUploadToArtifactService": [
+		{
+			"Platform": "Linux",
+			"Value": false
+		},
+		{
+			"Platform": "LinuxArm64",
+			"Value": false
+		}
+	],
+	"ProductChunkId": 4648,
+	"ParentChunkId": 40
+}

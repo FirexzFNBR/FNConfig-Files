@@ -1,0 +1,76 @@
+{
+	"Version": 0,
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "28.10",
+	"Modules": [
+		{
+			"Name": "JamFabricRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Harmonix",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Fabric",
+			"Enabled": true
+		},
+		{
+			"Name": "FabricEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "FMDeviceCables",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamPlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "MusicEventSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMusicPlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamSession",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true
+		}
+	],
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainVerse": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered"
+}

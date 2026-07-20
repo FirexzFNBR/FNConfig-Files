@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"bIsPluginExtension": true,
+	
+	"Modules": [
+		{
+			"Name": "GameplayStreaming",
+			"Type": "ClientOnlyNoCommandlet",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}

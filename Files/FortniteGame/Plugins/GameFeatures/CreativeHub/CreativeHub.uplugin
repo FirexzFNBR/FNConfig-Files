@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "Creative Hub",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative",
+	"FortReleaseVersion": "24.40",
+	"Version": 0,
+	"VersionName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "VKEditLobby",
+			"Enabled": true
+		}
+	]
+}

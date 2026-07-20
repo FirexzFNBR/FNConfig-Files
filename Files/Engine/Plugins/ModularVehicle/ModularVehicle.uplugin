@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ModularVehicle",
+	"Description": "",
+	"Category": "Epic Internal.Fortnite",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"IsExperimentalVersion": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"VersePath": "/UnrealEngine.com",
+	"VerseScope": "InternalUser",
+	"Modules": [
+		{
+			"Name": "VehicleComponent",
+			"Type": "Runtime"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "ChaosModularVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VersePrint",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		}
+
+	]
+
+}

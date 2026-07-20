@@ -1,0 +1,63 @@
+{
+	"FileVersion": 1,
+	"FriendlyName": "Testing Framework",
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/VerseInternalTesting",
+	"VerseScope": "InternalAPI",
+	"EnabledByDefault": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VerseInternalTesting",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EpicGamesTemporary",
+			"Enabled": true
+		},
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseAutomatedTestingUtils",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealEngineExperimental",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseColors",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "AuroraCore",
+			"Enabled" : true
+		},
+		{
+			"Name": "VerseJSON",
+			"Enabled": true
+		}
+	]
+}

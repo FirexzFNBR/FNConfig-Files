@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "28.30",
+	"NoRedist": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"Hotfixable": true,
+	"EditorCustomVirtualPath": "FNE/Lime/Core",
+	"Plugins": [
+		{
+			"Name": "FigureCosmeticsFrontend",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

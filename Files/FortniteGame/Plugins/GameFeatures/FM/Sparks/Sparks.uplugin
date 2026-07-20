@@ -1,0 +1,652 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "41.20",
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 80,
+	"DisallowedPlugins": [
+		{
+			"Name": "JunoGame",
+			"Comment": "JunoGame is too large to be allowed in other products."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AccoladesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeatSyncedAnim",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryEcosystemQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BountiesTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Career",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompanionsProgression",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticShoes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DebugUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeimosAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicAthenaHUD",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheelContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EnhancedChew",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FestivalCompanion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMAudioReactiveData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCalibration",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMDanceSpotlight",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamDecks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamDeckTags",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamInLobby",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamPlayspace",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamQuickMix",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamSession",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamSystem",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMPawnBoombox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAudioGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortnitePlatformUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteRuntimeCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortQuestEncounters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Inferno",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JamTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JumpsuitQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LegacyRMTs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LocomotionInitiative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MistRaven",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MovementMotion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusicPassCommonData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PacifistIcons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimBattleStage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimInverse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimProVocals",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimProVocalsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimPvPCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimQPShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimQuickplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimQuickplayTouch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimSettings",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PilgrimVocalsDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ProductConfigs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuickplayJamSharedMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RankedTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_ConfectionPop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_FabulousWind",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_LacedCrimp",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_LastHour",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_PitGlass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_Terrabulb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "S40_STWPromo_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SkyDiving",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sliding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SlipperyMovement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksAccolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksAutomation",
+			"Enabled": true,
+			"Optional": true,
+			"TargetConfigurationDenyList": [
+				"Shipping"
+			]
+		},
+		{
+			"Name": "SparksAutotests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksCameraDirector",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksCharacterCommon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksCommon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksEnvironmentS10",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksEnvironmentS11",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksEnvironmentS12",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksEnvironmentS14",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksMaps",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksMatchmakingSettingsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksMicrophone",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksMusicPlayspace",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksPermanentQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksS8",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksS9",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSeason14",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSettings",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSongPlayer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSongSetlist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSpotlight_S14_Event01",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksStageShow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpotlightCamera",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValetTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VictoryCrownsRead",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildlifeAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Zipline",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

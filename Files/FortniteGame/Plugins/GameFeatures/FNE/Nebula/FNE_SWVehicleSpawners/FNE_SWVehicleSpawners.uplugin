@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"EditorCustomVirtualPath": "FNE/Nebula/FNE_SWVehicleSpawners",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Plugins": [
+		{
+			"Name": "CRD_VehicleSpawners",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_SWVehicleClasses",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

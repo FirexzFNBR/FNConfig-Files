@@ -1,0 +1,56 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Ch5S2",
+	"FortReleaseVersion": "37.00",
+	"Plugins": [
+		{
+			"Name": "MidMatchObjectivesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponModStation",
+			"Enabled": true
+		},
+		{
+			"Name": "BRMapCh6",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeChestParent",
+			"Enabled": true
+		},
+		{
+			"Name": "KeysAndLocks",
+			"Enabled": true
+		},
+		{
+			"Name": "MilitaryChest",
+			"Enabled": true
+		},
+		{
+			"Name": "Hermes",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

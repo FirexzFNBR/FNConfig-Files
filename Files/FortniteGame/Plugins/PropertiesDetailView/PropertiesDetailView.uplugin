@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Properties Detail View",
+	"Description": "Custom Detail View for tooling",
+	"Category": "Epic Internal.OGS",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Modules": [
+		{
+			"Name": "PropertiesDetailView",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

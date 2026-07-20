@@ -1,0 +1,63 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Smartgun",
+			"Enabled": true
+		},
+		{
+			"Name": "AutoAimWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true
+		},
+		{
+			"Name": "SegmentedReload",
+			"Enabled": true
+		},
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponMods",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicAthenaHUD",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "CH7"
+}

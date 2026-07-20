@@ -1,0 +1,102 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "BRWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "ZeroPoint",
+			"Enabled": true
+		},
+		{
+			"Name": "EmoteWheel",
+			"Enabled": true
+		},
+		{
+			"Name": "FeralCorgiGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FortFirstPersonMode",
+			"Enabled": true
+		},
+		{
+			"Name": "BRPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationBudgetAllocator",
+			"Enabled": true
+		},
+		{
+			"Name": "EventMode",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerry",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMapUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMap",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMapContent",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryLoot",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryAI",
+			"Enabled": true
+		}
+	]
+}

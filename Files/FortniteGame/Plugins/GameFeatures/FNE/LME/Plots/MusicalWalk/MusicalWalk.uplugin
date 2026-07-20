@@ -1,0 +1,195 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": true,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.00",
+	"EditorCustomVirtualPath": "FNE/Lime/Plots",
+	"Plugins": [
+		{
+			"Name": "CR_Legacy",
+			"Enabled": true
+		},
+		{
+			"Name": "Suburban_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "Musical_Walk_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "Primitives_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularEmitter",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularProgressor",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCoreDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PropManipulationDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Bouncer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PropMover",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularSequencer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularGlobalMusicController",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularWaveGenerator",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VFX_Spawner",
+			"Enabled": true
+		},
+		{
+			"Name": "FMDeviceCables",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Foliage",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricDistortionEffect",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularEchoEffect",
+			"Enabled": true
+		},
+		{
+			"Name": "Fabric",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PointLight",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricInstrumentPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricNoteTrigger",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularDrumPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_DrumSequencer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Volume",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_Switch",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PlayerSpawn",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModalDialog",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HUDController",
+			"Enabled": true
+		},
+		{
+			"Name": "FMInWorldKnobs",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Background",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_AudioMixer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRG_Modular",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VolumetricRegion",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VFX_Creator",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_SkydomeDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularBassSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "LimePatchworktool",
+			"Enabled": true
+		},
+		{
+			"Name": "LimePlayerSpawn",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_LimeItemSpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "Creative_TemporaryTeams",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

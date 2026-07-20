@@ -1,0 +1,166 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoOsirisGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWreck_Scar",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Taming",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoComponentCrafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Osiris/Scenarios",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoScenarios_Townbuilder_Osiris",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

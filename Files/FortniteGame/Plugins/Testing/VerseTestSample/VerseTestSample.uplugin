@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"FriendlyName": "Verse Test Sample",
+	"Description": "Sample Verse tests for the Modular Test Framework.",
+	"Category": "Testing",
+	"EnabledByDefault": true,
+	"ExplicitlyLoaded": true,
+	"CanContainVerse": true,
+	"CanContainContent": true,
+	"VersePath": "/Fortnite.com/VerseTestSample",
+	"VerseScope": "InternalAPI",
+	"Plugins": [
+		{
+			"Name": "ModularTestFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteModularTestVerse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		}
+	]
+}

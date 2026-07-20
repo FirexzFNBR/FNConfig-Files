@@ -1,0 +1,46 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "BlastBerry",
+			"Enabled": true
+		},
+		{
+			"Name": "BRPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMap",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryLoot",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryPlaylists",
+			"Enabled": true
+		}
+	]
+}

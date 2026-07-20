@@ -1,0 +1,58 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": true,
+    "BuiltInAutoActivate": false,
+    "FortReleaseVersion": "30.30",
+	"EditorCustomVirtualPath": "FNE/Lime/Plots",
+	"Plugins": [
+		{
+			"Name": "CR_Legacy",
+			"Enabled": true
+		},
+		{
+			"Name": "Suburban_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCoreDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PlayerSpawn",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_PointLight",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_SkydomeDevice",
+			"Enabled": true
+		},
+		{
+			"Name": "LimePlayerSpawn",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeGooGun",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeSnowballLauncher",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_LimeItemSpawner",
+			"Enabled": true
+		}
+	]
+}

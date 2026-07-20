@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": true,
+    "BuiltInAutoActivate": false,
+    "EditorCustomVirtualPath": "FNE/Lime/Overrides",
+    "FortReleaseVersion": "30.30",
+	"Plugins": [
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		}
+	]
+}

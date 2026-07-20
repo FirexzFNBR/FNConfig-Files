@@ -1,0 +1,132 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM/FMJam",
+	"FortReleaseVersion": "39.00",
+	"DODTestDoesGameSkipLoadingAsBuiltIn": "true",
+	"Modules": [
+		{
+			"Name": "FMJamMapRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "FMCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamSession",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamPlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksLobby",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMusicPlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksUICommon",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksStageShow",
+			"Enabled": true
+		},
+		{
+			"Name": "EmoteWheel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicBacchusHUD",
+			"Enabled": true
+		},
+		{
+			"Name": "AmbientAudioContent",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "FMDanceSpotlight",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "FMJamMap",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,152 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/PatientHouse",
+	"FortReleaseVersion": "40.50",
+	"Modules": [
+		{
+			"Name": "SourForkRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SourForkUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AICore",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Curie",
+			"Enabled": true
+		},
+		{
+			"Name": "DamageNumbers",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "GiantPawnCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "DryBox",
+			"Enabled": true
+		},
+		{
+			"Name": "BlondeJawMedallion",
+			"Enabled": true
+		},
+		{
+			"Name": "SourForkSupplyDrop",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseMedallionsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "StormSickness",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseEnvGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "ShockwaveMace",
+			"Enabled": true
+		},
+		{
+			"Name": "Superstorm",
+			"Enabled": true
+		},
+		{
+			"Name": "FortaniumGeneral",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerry",
+			"Enabled": true
+		},
+		{
+			"Name": "TakedownMedallion",
+			"Enabled": true
+		},
+		{
+			"Name": "FortNPCMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "SourForkPublic",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "PatientHouseTags",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"SunsetFortReleaseVersion": "Future"
+}

@@ -1,0 +1,41 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Lager Debugger",
+	"Description": "A debugger menu based on ImGui to debug the Lager system. Requires Unreal ImGui: https://github.com/segross/UnrealImGui (c) Sebastian Gross. Uses ImGui: https://github.com/ocornut/imgui (c) Omar Cornut. MIT License.",
+	"Category": "Debugging",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EditorCustomVirtualPath": "AI",
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"FortReleaseVersion": "26.00",
+	"Modules": [
+		{
+			"Name": "LagerDebuggerRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Lager",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true,
+			"Optional": false
+		}
+	]
+}

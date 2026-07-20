@@ -1,0 +1,20 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Result Type",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"Description" : "A generic result type for multiple systems to communicate success and failures.",
+	"Category" : "Core",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"EnabledByDefault" : true,
+
+    "Modules": [
+        {
+            "Name": "ResultType",
+            "Type": "Runtime",
+            "LoadingPhase" : "PostConfigInit"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "36.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "Ch6S3",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "CherrySmokeBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingUI",
+			"Enabled": true
+		},
+		{
+			"Name": "MedallionUI",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayerAugmentsCode",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "MistRaven",
+			"Enabled": true
+		}
+	]
+}

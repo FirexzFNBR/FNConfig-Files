@@ -1,0 +1,79 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"EditorCustomVirtualPath": "Creative",
+	"Description": "Chests and containers which drop randomized loot.",
+	"Category": "Game Features",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "39.00",
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"Plugins": [
+		{
+			"Name": "MusterContainers",
+			"Enabled": true
+		},
+		{
+			"Name": "GoBagGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFactionChestGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFlyingGameplay",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FirePetalThemedChestGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeChestParent",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "MilitaryChest",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HiveStash",
+			"Enabled": true
+		},
+		{
+			"Name": "DreamFog",
+			"Enabled": true
+		},
+		{
+			"Name": "LootCannon",
+			"Enabled": true
+		}
+	],
+	"FriendlyName": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_ChestAmmoGallery",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"Description": "Ranked Quests Permanent Content",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "RankedQuests",
+	"FortReleaseVersion": "24.40"
+}

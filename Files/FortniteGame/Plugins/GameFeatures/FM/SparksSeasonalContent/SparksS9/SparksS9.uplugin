@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SparksS9",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": true,
+	"FortReleaseVersion": "36.10",
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"EditorCustomVirtualPath": "FM/SparksSeasonalContent",
+	"Plugins": [
+		{
+			"Name": "SparksCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksLobby",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMaps",
+			"Enabled": true
+		}
+	],
+	"NoCode": true
+}

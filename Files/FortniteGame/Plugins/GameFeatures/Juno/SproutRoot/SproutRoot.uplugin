@@ -1,0 +1,1998 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "Juno/Sprout/Base",
+	"FortReleaseVersion": "41.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 60,
+	"DisallowedPlugins": [
+		{
+			"Name": "DelMarGame",
+			"Comment": "Juno should not depend on the DelMar product, it will explode download sizes. Something is likely configured wrong."
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Comment": "STW is not allowed in this product."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AICore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ControlRigLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticsDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheelContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJam",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJamCharacter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJamInLobby",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMPawnBoombox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNCellTransformer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAudioGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortnitePlatformUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortWaterAdvanced",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoLowMemoryFallback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoServer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoStandaloneQuestUI_V2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoOniClanOutpost_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleChili_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleLemon_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleMaple_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleMint_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AcademyPotion_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipBattleBus_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLootLlama_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLootLlama_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipTabasco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipTabasco_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AnubisSettlement_bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ArtCollective_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ArtDeco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BFFestival_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BounceHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BountyBoard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BrickBuilt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BrightBionic_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CactusRMT_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityBillboard_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityHall_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityPopulation_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityScaffold_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ConcertStage_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_DimSumRestaurant_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericAwnings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericBeams_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericFences_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericFloors_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericMouldings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRailings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRoof_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRopeBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRubble_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericStairs_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericSupports_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericWalls_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericWallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HighRise_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HotelBoutique_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HoverBoardShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_JunglePug_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Lighthouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_LonelyLodgePavillion_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_MaskMakerCitadel_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ModernHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Porridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgeHome_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgeHome_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgePower_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgeTeaser_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailClub_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailElevator_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailVault_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RiotFly_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RiotFlyArchway_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SightSpaniel_Props",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StoutWhiz_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StrideMicePyramid_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StrideMicePyramid_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Summer_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperheroAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperheroAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperHeroAcademyBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperHeroAcademyBridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperheroRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SupplyDrop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoKraken_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoOniClanOutpost_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoPartTwo_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoRaidZeppelin_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoShipwreck_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoShipwreck_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleChili_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleLemon_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleMaple_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleMint_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoToy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TomatoHead_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_UpscaleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Villa_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_WallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_WinterBirthday",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTouchCommonUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Labrador",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFN_LonelyLodgePavillion_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNAudioContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNCellTransformer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LowMemoryFallback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MiscReferencersOfCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PhotoMode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SmartObjectLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sprout_JobBoard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sprout_Requests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutAccolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutAI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutAmbientLife",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCanvas",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutConversations",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCookFishCollectUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCoreInventory",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCreature_Domestic",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutCreature_Domestic_OsirisGerbil",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutGameUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutHubCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutItems_CellPhone",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutItems_Currency",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutItems_Handhelds",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutItems_HousingShells",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutItems_Tools",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutItems_Weapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutJobs_Base",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLevels_3410",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLevels_3420",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLevels_3600",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLevels_3800_CYC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLevels_3910_CYC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLevels_EVG",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutLowMemoryFallback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutMatchmakingSettingsButton",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutNPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutNPCTracker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutOnlinePoll",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutPlayerCompanion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutPlaylist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutProductConfig",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutPrototypes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutQuest_Dailies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutSmartObject",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutSmartObjectUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AcademyPotion_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AirshipLeviathan_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AirshipLeviathan_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AirshipLootLlama_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AirshipLootLlama_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AirshipTabasco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AirshipTabasco_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AnarchyAcres_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AnarchyAcres_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AnicentPalace_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AnimalCare",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AnimalCare_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_AnimalRescue_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ANP_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Arcade_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ArtCollective_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ArtCollective_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ArtCollectiveB_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ArtDeco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BasicShelter_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BattleBus_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BattleBusProps_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BeachRentals_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BFFestival_EVG_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BlueBeachHouse_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BounceHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BountyBoard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BrickBuilt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BrightBionic_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BriteBomb_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_BubbleTeaShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CactusRMT_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CandySummer_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CarShowroom_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CastleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CatCafe_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Cinema_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityBillboard_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityHall_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityHall_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityLevels_EVG",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityPopulation_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CityScaffold_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Club_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ConcertStage_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ConcertStage_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CookFishCollect",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CosmicLabs_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CozyHouse_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CraftsmanBuildings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_CraftsmanLodge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_DarkAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_DarkAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_DimSumRestaurant_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_DimSumRestaurant_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_DurrBurger_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_DurrBurger_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_EventValentines_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ForecastShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Frankenstein_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericAwnings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericBeams_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericChristmas_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericDecor_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericFences_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericFloors_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericMouldings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericRailings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericRopeBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericStairs_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericSupports_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericTrims_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericWalls_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_GenericWallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Gym_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Gym_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HauntedHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HauntedHouse_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HeavyMetalKitchen_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HighRise_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HighStakes_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Hologram_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HotelBoutique_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_HoverBoardShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Infection",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_JobGardener_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_JobGardener_UI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_JunglePug_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Lighthouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Lighthouse_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_LionKnight_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_LionKnightCastle_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_LitterBoxing_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_LonelyLodge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_LunarNew_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_MaskMakerCitadel_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_MaskMakerCitadel_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_MechanicShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_MechanicShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ModernHighRise_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ModernHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ModernHouses_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Neptune_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_NewsPaperBuilding_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_NewsPaperBuilding_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_NewYorkApartment_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_NewYorkApartment_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisColony_BasicShelter_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisColony_CastleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisColony_LonelyLodge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisColony_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisSurvivor_BasicShelter_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisSurvivor_CastleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisSurvivor_LonelyLodge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisSurvivor_Shared_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisTown_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_OsirisTown_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Palace_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PeelyVillage_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PeelyVillage_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PEHE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PEPE_CYC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PEPE_EVG",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PERS",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PirateTown_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PirateTown_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PirateTown_Tower_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PirateTown_Tower_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PizzaShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PleasantPark_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PorridgeHome_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PorridgePower_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_PorridgeTeaser_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Potions_Gameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RainbowLute_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RainbowLute_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RavenCastle_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RavenCastle_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RefAllWIDs_EVG",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Requests_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RetailCinema_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RetailCinema_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RetailClub_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RetailElevator_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RetailFurnitureStore_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RetailVault_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RewardsJob_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RiotFly_AmbientLife",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RiotFly_OnlinePolls",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RiotFly_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_RiotFlyArchway_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ScavengerHunt_Gameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_ShipItExpress_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SightSpaniel_Props",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SoccerGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SpireBoss_AmbientLife",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SpireExcavation_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Sprout_Companions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_StoutWhiz_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_StreetDecor_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_StrideMicePyramid_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_StrideMicePyramid_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Summer_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SummerBuild_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SuperheroAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SuperheroAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SuperHeroAcademyBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SuperHeroAcademyBridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SuperheroRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SupplyDrop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_SushiRestaurant_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoCity_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoCity_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoKraken_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoMonastery_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoMonastery_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoRaidZeppelin_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TabascoToy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TaskBoard_Pre3600",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TomatoHead_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TomatoTemple_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_TomatoTemple_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_UpscaleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Vampire_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Vault_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Villa_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_WallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Wasteland_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_Wasteland_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTG_WinterBirthday",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTODM",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutVehicles",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutWeaponLightsaber",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutWorld_3500",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutWorld_BrickBay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutWorldEDL",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TextChatDynamicUIDefault",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Valet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "EditorCustomVirtualPath": "FNE/Lime",
+    "FortReleaseVersion": "36.10",
+	"Modules": [
+		{
+			"Name": "LimeAtomEditorUI",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AtomFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeNative",
+			"Enabled": true
+		},
+		{
+			"Name": "ValkyrieEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSpatialMath",
+			"Enabled": true
+		},
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

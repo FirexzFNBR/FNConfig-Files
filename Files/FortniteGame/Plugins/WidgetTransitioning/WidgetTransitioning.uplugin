@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Widget Transitioning",
+	"Description": "Utilities for managing and tracking transitions between visual states of individual widgets.",
+	"Category": "UI",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Modules": [
+		{
+		  "Name": "WidgetTransitioning",
+		  "Type": "ClientOnly",
+		  "LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled":  true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled":  true
+		},
+		{
+			"Name": "UIStateTree",
+			"Enabled": true
+		}
+	]
+}

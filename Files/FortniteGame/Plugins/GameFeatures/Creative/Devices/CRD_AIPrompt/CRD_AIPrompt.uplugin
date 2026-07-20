@@ -1,0 +1,142 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"ExplicitlyLoaded": true,
+	"VersePath": "/UnrealEngine.com/Conversations",
+	"VerseScope": "PublicAPI",
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "Creative",
+	"FortReleaseVersion": "39.50",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AIPrompt",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "AIPromptEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "ChatCompletion",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ElevenLabs",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "EpicGamesTemporary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "GoogleGemini",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "MetaHumanSDK",
+			"Enabled": true
+		},
+		{
+			"Name": "Mimic",
+			"Enabled": true
+		},
+		{
+			"Name": "Monologue",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "NPCDefault",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OnlineFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "Orator",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VersePersonaMetadata",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseFortnite",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseVoiceTextChat",
+			"Enabled": true
+		},
+		{
+			"Name": "FNRedwood",
+			"Enabled": true,
+			"Activate":  true
+		},
+		{
+			"Name": "FNE_UI",
+			"Enabled": true
+		}
+	]
+}

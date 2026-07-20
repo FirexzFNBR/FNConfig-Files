@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+
+	"FriendlyName": "EOSShared Fortnite",
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Fortnite specific overrides for EOSShared",
+	"Category": "Online Platform",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"EnabledByDefault": true,
+
+	"Modules": [
+		{
+			"Name": "EOSSharedFN",
+			"Type": "Runtime",
+			"LoadingPhase": "None"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EOSShared",
+			"Enabled": true
+		}
+	]
+}

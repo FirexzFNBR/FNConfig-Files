@@ -1,0 +1,78 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Plugin containing UI related classes from the Morning Bell feature.",
+	"Category": "",
+	"CreatedBy": "Alice Abreu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "BattleRoyale",
+	"Modules": [
+		{
+			"Name": "MorningBellUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlFlows",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelViewViewModel",
+			"Enabled": true
+		},
+		{
+			"Name": "SeasonPass",
+			"Enabled": true
+		},
+		{
+			"Name": "GiftBox",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestDisplayData",
+			"Enabled": true
+		},
+		{
+			"Name": "MorningBellItems_TeaCake",
+			"Enabled": true
+		},
+		{
+			"Name": "MorningBellItemsManager",
+			"Enabled": true
+		},
+		{
+			"Name": "MatchmakingSettingsFN1Shooters",
+			"Enabled": true
+		}
+	]
+}

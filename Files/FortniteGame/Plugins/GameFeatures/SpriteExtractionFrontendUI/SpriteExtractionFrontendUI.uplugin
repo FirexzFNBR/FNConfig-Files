@@ -1,0 +1,75 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Plugin to use for frontend UI content for SpriteExtraction",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "Ch7S3",
+	"Plugins": [
+		{
+			"Name": "SpriteExtractionCoreUI",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ExtractionCore",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "BattleRoyaleFrontend",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUIAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SpriteExtractionReadyUpErrorsUI",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "SeasonPass",
+			"Enabled": true
+		},
+		{
+			"Name": "SpriteLibrary_CH7S3",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "SpriteExtractionFrontendUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	]
+}

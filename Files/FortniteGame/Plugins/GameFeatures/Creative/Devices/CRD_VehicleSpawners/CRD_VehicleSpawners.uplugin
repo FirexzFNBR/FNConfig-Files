@@ -1,0 +1,64 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "Creative",
+	"FortReleaseVersion": "21.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"Plugins": [
+		{
+			"Name": "Valet",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "BallerV2",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Motorboat",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "SrirachaRanch",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_VehicleSpawners",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "JunoJournalDebugger",
+	"Description": "A plugin to house ImGui debugging for the Juno Journal. Requires Unreal ImGui: https://github.com/segross/UnrealImGui (c) Sebastian Gross. Uses ImGui: https://github.com/ocornut/imgui (c) Omar Cornut. MIT License.",
+	"Category": "Debugging",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay",
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"FortReleaseVersion": "33.30",
+	"Modules": [
+		{
+			"Name": "JunoJournalDebugger",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [
+				"Shipping"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		}
+	],
+	"BuiltInInitialFeatureState": "Registered"
+}

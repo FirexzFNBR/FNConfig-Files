@@ -1,0 +1,36 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "SaveTheWorld",
+	"FortReleaseVersion": "30.30",
+	"Plugins": [
+		{
+			"Name": "ClamberingContent",
+			"Enabled": true
+		},
+		{
+			"Name": "ClamberingCode",
+			"Enabled": true
+		},
+		{
+			"Name": "ContextualTraversal",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

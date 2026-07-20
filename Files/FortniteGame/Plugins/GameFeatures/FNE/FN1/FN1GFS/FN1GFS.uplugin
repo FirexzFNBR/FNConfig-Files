@@ -1,0 +1,238 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/FN1",
+	"FortReleaseVersion": "41.20",
+	"VerseVersion": 0,
+	"IsGameFeatureSet": true,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 90,
+	"RequiredEntitlements": {
+		"Create": {
+			"VKCreateUGCEpicDeveloper": "13bed52c90d4405abb84bb59f1e9c3ad"
+		}
+	},
+	"Plugins": [
+		{
+			"Name": "Accolades",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "AccoladesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AudioPunchberryContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BowlVenus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CalmSambucusMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DashberryMapContent",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicVolume",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FeralCorgiMaps",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1Native",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNE_UI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ForbiddenBlastBerryOldMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ForbiddenFruit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Hera",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ImmunityCarriage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LACity_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchMistMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OXR_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PiperBootMapContentV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlaytimeRewards",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlunderFlop",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "POIBanner",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "POIBannerUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PulseLancer_SmashMap",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ReloadLandscapeShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SolidWave_ExtraAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SourSpawnMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquareClub_Accolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquareClub_Dailies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquareClub_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquareClub_S02_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SquareClubMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SWave_Beacon_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SWave_Core_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SWave_Matrix_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SWave_Quill_Assets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TimberStakeMapContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VendingMachine",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		}
+	]
+}

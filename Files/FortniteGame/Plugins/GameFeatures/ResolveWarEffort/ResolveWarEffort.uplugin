@@ -1,0 +1,66 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.20",
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "WarEffort",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "ResolveTurret",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ArmoredBattleBus",
+			"Enabled": true
+		},
+		{
+			"Name": "Hoagie",
+			"Enabled": true
+		},
+		{
+			"Name": "CowCatcherMod",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionGameplayCode",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered"
+}

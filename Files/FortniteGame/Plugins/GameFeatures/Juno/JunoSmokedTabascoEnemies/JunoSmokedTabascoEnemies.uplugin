@@ -1,0 +1,214 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Enemies for Ninjago Part 2",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoComponentCrafting",
+			"Enabled": true
+		},
+		{
+			"Name": "AICore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemyWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoElementalGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoChili",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "AssembledMeshSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMint",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFocusShared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMaple",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoTwist",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNTabascoTwist",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPlain",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreaturesShared",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponBase",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNComponentCraftingCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemiesHedgeMalt",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoNeptune_Enemies",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/SmokedTabasco/AI",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoSmokedTabascoEnemies",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

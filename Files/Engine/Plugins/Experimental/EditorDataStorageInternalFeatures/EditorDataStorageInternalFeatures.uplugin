@@ -1,0 +1,30 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "TEDS: Editor Data Storage Internal Features",
+	"Description": "Experimental TEDS Features for the Editor, contains features in alpha or general content to be hidden from licensees.",
+	"Category": "Editor",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TedsStyling",
+			"Type": "Editor"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorDataStorageFeatures",
+			"Enabled": true
+		}
+	],
+	"SupportedPrograms": ["ChaosVisualDebugger"]
+}

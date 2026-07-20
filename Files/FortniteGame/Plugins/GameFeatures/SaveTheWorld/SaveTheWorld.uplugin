@@ -1,0 +1,188 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "SaveTheWorld",
+	"FortReleaseVersion": "40.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [
+		{
+			"Name": "SaveTheWorldRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SaveTheWorldUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUILegacy",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicCMSUIFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "LauncherSocial",
+			"Enabled": true
+		},
+		{
+			"Name": "Locker",
+			"Enabled": true
+		},
+		{
+			"Name": "MyLoadout",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraFN",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineGameplayFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "SocialUMG",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintUI",
+			"Enabled": true
+		},
+		{
+			"Name": "RidingContent",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RidingCode",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemShop",
+			"Enabled": true
+		},
+		{
+			"Name": "STW_Sounds",
+			"Enabled": true
+		},
+		{
+			"Name": "STW_Missions",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkItems",
+			"Enabled": true
+		},
+		{
+			"Name": "PapayaGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "SubtitlesWidgets",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Gifting",
+			"Enabled": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "FMJamCatalog",
+			"Enabled": true
+		},
+		{
+			"Name": "EmoteWheel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuestCategories",
+			"Enabled": true
+		},
+		{
+			"Name": "Lab_Assets",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "SaveTheWorld",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

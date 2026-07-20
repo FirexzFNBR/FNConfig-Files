@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.30",
+	"Version": 0,
+	"VersionName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "DelMarUEFN",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "FortDelMarJellyHazard",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortDelMarAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarAudio",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarGame",
+			"Enabled": true
+		}
+	]
+}

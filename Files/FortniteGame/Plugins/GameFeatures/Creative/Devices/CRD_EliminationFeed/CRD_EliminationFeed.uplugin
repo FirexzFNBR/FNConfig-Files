@@ -1,0 +1,35 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "24.30",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative",
+	"VerseScope": "PublicAPI",
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"Plugins": [
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_EliminationFeed",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

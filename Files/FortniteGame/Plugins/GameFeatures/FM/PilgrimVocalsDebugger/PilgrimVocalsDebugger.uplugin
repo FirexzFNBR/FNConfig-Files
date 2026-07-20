@@ -1,0 +1,73 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FM",
+	"FortReleaseVersion": "40.20",
+	"Modules": [
+		{
+			"Name": "PilgrimVocalsDebuggerRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [
+				"Shipping"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "PilgrimCore",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimProVocals",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimQuickplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PilgrimQPShared",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksMicrophone",
+			"Enabled": true
+		},
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true
+		}
+	],
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Version": 0
+}

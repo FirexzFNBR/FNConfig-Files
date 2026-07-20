@@ -1,0 +1,73 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Active",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.00",
+	"SunsetFortReleaseVersion": "42.00",
+	"EditorCustomVirtualPath": "BattlePass/Season41",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorOnly": false,
+	"Plugins": [
+		{
+			"Name": "SeasonPass",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "BattlePassBase",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticShoes",
+			"Enabled": true
+		},
+		{
+			"Name": "BattlePassS41_PassQuestPrereqs",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticCompanionsFrontend",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticCompanions",
+			"Enabled": true
+		}
+	]
+}

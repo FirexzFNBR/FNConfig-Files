@@ -1,0 +1,52 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Ch5S2",
+	"FortReleaseVersion": "29.00",
+	"Plugins": [
+		{
+			"Name": "SunRoseFlyingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseZeusGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseChainWhipGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFactionChestGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseMedallionsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TargetingSystem",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

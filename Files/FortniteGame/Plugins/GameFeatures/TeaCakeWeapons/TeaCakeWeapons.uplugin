@@ -1,0 +1,94 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "Ch7S2",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "FortMetaSoundWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "SharedWeaponAnims",
+			"Enabled": true
+		},
+		{
+			"Name": "ToggleScopeModeInput",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponMods",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		},
+		{
+			"Name": "FortFirstPersonMode",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JethroWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Galileo",
+			"Enabled": true
+		},
+		{
+			"Name": "KeepScoreGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SegmentedReload",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "TeaCakeWeaponsRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

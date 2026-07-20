@@ -1,0 +1,203 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "Ch7S3",
+	"Plugins": [
+		{
+			"Name": "AgileChugJugGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BetterFishing",
+			"Enabled": true
+		},
+		{
+			"Name": "BigBushGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "ClusterBombGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployableTurretGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployedCoverGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonCartWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DuckSnacks",
+			"Enabled": true
+		},
+		{
+			"Name": "EMPGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "EspressoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FillerGrunt",
+			"Enabled": true
+		},
+		{
+			"Name": "FizzyCloudGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FossilMealGadget",
+			"Enabled": true
+		},
+		{
+			"Name": "Fringeplank_Firework",
+			"Enabled": true
+		},
+		{
+			"Name": "HopscotchWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "IceCream",
+			"Enabled": true
+		},
+		{
+			"Name": "ImpulseGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "LaunchPadItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MedCloud",
+			"Enabled": true
+		},
+		{
+			"Name": "MilitiaExpire",
+			"Enabled": true
+		},
+		{
+			"Name": "MoonFlaxWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "NitroGauntletsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "OrangeRemoteWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RelicVault",
+			"Enabled": true
+		},
+		{
+			"Name": "RocketRamGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SalineCabinet",
+			"Enabled": true
+		},
+		{
+			"Name": "SevenSlide",
+			"Enabled": true
+		},
+		{
+			"Name": "ShieldBubble",
+			"Enabled": true
+		},
+		{
+			"Name": "ShielderGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ShockwaveMace",
+			"Enabled": true
+		},
+		{
+			"Name": "SpriteLibrary_CH7S3",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TeaCakeWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "ThrownMarkingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorConsumablesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		}
+	]
+}

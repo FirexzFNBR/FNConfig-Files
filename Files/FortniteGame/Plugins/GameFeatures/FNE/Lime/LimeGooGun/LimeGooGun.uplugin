@@ -1,0 +1,57 @@
+{
+	"FortReleaseVersion": "30.30",
+	"NoRedist": false,
+	"EnabledByDefault": false,
+	"Hotfixable": true,
+	"BuiltInInitialFeatureState": "Installed",
+	"EditorCustomVirtualPath": "FNE/Lime/Weapons/Ranged/GooGun",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "LimeWeaponsCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "UnstableLiquidGun",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		}
+	]
+}

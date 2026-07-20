@@ -1,0 +1,123 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "37.30",
+	"Modules": [
+		{
+			"Name": "CosmeticCompanionsRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CosmeticCompanionsEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AnimationBudgetAllocator",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "ContextualAnimation",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkFlowgraph",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticAssembledItemDefinitions",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkArbitration",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkLoadouts",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkModifiers",
+			"Enabled": true
+		},
+		{
+			"Name": "CosmeticsFrameworkUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "DefaultCosmeticsAthena",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "MiscReferencersOfCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "MusicEventSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Mutable",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineGameplayFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestCategories",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "ShellMesh",
+			"Enabled": true
+		},
+		{
+			"Name": "WhisperRemedyAssets",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "Companions",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

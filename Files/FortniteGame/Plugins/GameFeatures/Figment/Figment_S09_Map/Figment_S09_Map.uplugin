@@ -1,0 +1,131 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "FigmentCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigmentEnvironment",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "Ascender",
+			"Enabled": true
+		},
+		{
+			"Name": "FigmentQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_S09",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_S09_LevelInstances",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_S09_MapUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_LootTables",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Homages",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Vehicle_Golf_Cart",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Vehicle_ShoppingCart",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Vehicle_QuadCrasher",
+			"Enabled": true
+		},
+		{
+			"Name": "CactusFruits",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_FerretVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_JackalVehicle_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_S08",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_S07",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Vehicle_Baller",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Pepper",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Banana",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Vehicle_PushCannon",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_GoldenPOI",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Figment/S09"
+}

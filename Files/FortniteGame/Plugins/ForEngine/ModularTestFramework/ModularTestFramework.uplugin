@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Modular Test Framework",
+	"Description": "Engine-level framework for authoring and running scoped plugin tests.",
+	"Category": "Testing",
+	"IsExperimentalVersion": true,
+	"CanContainContent": false,
+	"EnabledByDefault": false,
+	"TestConfig":
+	{
+		"TestPlugin": "ModularTestFrameworkTests"
+	},
+	"Modules": [
+		{
+			"Name": "ModularTestFramework",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ModularTestRunner",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ControlFlows",
+			"Enabled": true
+		},
+		{
+			"Name": "PythonScriptPlugin",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

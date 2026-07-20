@@ -1,0 +1,81 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "30.00",
+	"EditorCustomVirtualPath": "FM",
+	"Modules": [
+		{
+			"Name": "FMPawnBoomboxRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "FMPawnBoomboxUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EmoteWheel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "SparksSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicBacchusHUD",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusicEventSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "Metasound",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "FMBoombox",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

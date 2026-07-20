@@ -1,0 +1,250 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnv",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_MaskMakerCitadel_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_MaskMakerCitadel_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_MaskMakerCitadel_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_MaskMakerCitadel_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_SpireExcavation_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_SpireExcavation_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_GenericWalls_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_GenericFloors_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Scenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoMonastery_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoMonastery_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoGeneric_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoNPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersCombatSprinkle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Monastery",
+			"Enabled": true
+		},
+		{
+			"Name": "VariableSelections",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_MaskMakerCitadel",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAdventures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPOI_NPCVillage_Neptune",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoCity_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleLemon_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleLemon_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoGeneric_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoResearch",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_TempleScenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TabascoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/World",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoTabascoPOI_LightningTemple",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "0.5",
+	"FriendlyName" : "ImDraw Menu",
+	"Description" : "Menu for searching and viewing debug shapes created by ImDraw",
+	"Category": "Debugging",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : false,
+	"Modules": [
+		{
+			"Name": "ImDrawMenu",
+			"Type": "ClientOnly",
+			"LoadingPhase": "PreDefault",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+      {
+        "Name": "FortImGuiCore",
+        "Enabled": true,
+        "Optional": false
+      },
+      {
+        "Name": "ImDrawEngine",
+        "Enabled": true,
+        "Optional": false
+      },
+      {
+        "Name": "SlateIM",
+        "Enabled": true,
+        "Optional": false
+      }
+    ]
+}

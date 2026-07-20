@@ -1,0 +1,485 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 11,
+	"Plugins": [
+		{
+			"Name": "AwfulDuck",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChronoRaptor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ContextualTraversal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticShoes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DoorBashCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DoorBashContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicCapsuleCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicCapsuleContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheelContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMPawnBoombox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAudioGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortnitePlatformUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ItemShop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Labrador",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LocomotionInitiative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MiscReferencersOfCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MovementMotion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RidingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RidingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "S40_STWPromo_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Accessories",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Biomes_Root",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_BoostedJump",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Characters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_ClamberingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_ClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Dens",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_DoorBashContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_DynamicHUD",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Environments",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_FallDamageV2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_FMJamDecks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_HestiaBeauty",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Horde",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Irwin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Lager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_LoadedInFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Locker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_LocomotionInitiative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_MapPickupDisplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Mission_Hunt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Missions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Mist_Titans",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_PlayerCompanions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Riding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_RollLanding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Scenarios",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_SimpleBuild",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_SimpleEdit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Sliding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_SlipperyMovement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Sounds",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_TacticalSprint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Vaulting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_WallJump",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_WallStick",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_Zones",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Valet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ValetTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VaultingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VaultingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VehicleAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VictoryCrownsRead",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WeaponModernizationFeatures",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildlifeAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

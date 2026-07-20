@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "35.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "Juno/Sprout/Themes/Theme_Osiris",
+	"NoCode": true,
+	"Plugins": [
+		{
+			"Name": "SproutItems_Currency",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_RiotFly_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutOnlinePoll",
+			"Enabled": true
+		}
+	]
+}

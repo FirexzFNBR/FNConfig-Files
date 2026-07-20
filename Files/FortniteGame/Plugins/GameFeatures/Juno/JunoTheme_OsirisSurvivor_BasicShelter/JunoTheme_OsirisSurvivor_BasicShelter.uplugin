@@ -1,0 +1,142 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "29.40",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoOsirisGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios_Osiris",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoScenarios_Osiris_Rebels",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/ThemeGame/Osiris",
+	"LocalizationTargets": [
+		{
+			"Name": "JT_OS_BasicShelter",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

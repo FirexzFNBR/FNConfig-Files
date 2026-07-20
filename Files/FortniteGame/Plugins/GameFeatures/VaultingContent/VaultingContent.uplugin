@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"IsBetaVersion": false,
+	"FortReleaseVersion": "23.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "VaultingCode",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicCapsuleCode",
+			"Enabled": true
+		},
+		{
+			"Name": "ContextualTraversal",
+			"Enabled": true
+		}
+	]
+}

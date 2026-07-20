@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Individual Asset Download (IAX)",
+	"Description": "Individual Asset Download (IAD/IAX) seed settings, cook-time class-hierarchy artifact, and the post-cook IAD gather. Engine-portable: depends only on engine modules.",
+	"Category": "Cooking",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "IAX",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "IAXEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

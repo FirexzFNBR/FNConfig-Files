@@ -1,0 +1,86 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.00",
+	"Modules": [
+		{
+			"Name": "WingSuitRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "CH7S1",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "MistRaven",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokePolarityGrenadeGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GravWellGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "RollLanding",
+			"Enabled": true
+		},
+		{
+			"Name": "RollLandingCode",
+			"Enabled": true
+		},
+		{
+			"Name": "MovementActions",
+			"Enabled": true
+		},
+		{
+			"Name": "MovementModeExtensionHelpers",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "PhysicalImpactEffects",
+			"Enabled": true
+		},
+		{
+			"Name": "FlyingCode",
+			"Enabled": true
+		}
+	]
+}

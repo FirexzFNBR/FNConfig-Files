@@ -1,0 +1,96 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "Creative",
+	"FortReleaseVersion": "37.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "LinedNotebookVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VehicleSpawners",
+			"Enabled": true
+		},
+		{
+			"Name": "HoverboardV2",
+			"Enabled": true
+		},
+		{
+			"Name": "LinedNotebookGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_SupplyDropSpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "LinedNotebookSupplyDrop",
+			"Enabled": true
+		},
+		{
+			"Name": "SpecialSupplyDrop",
+			"Enabled": true
+		},
+		{
+			"Name": "LinedNotebookStraitGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_HidingProps",
+			"Enabled": true
+		},
+		{
+			"Name": "SewerPortal",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "LinedNotebookConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "MILinedNotebookImports",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_LinedNotebook",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

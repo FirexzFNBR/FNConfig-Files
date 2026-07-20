@@ -1,0 +1,190 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestCategories",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoQuest_Repeatable",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoRewards_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEnemiesHedgeMalt",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_bearIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Fire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoInvasion",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMaple",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMint",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPlain",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Monastery",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Scenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_SightSpaniel_Props",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoLemon",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestDisplayData",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Gameplay/Quests",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoQuestsTabascoPart1",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

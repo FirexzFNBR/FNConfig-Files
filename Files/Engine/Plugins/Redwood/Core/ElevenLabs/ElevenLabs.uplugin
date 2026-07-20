@@ -1,0 +1,47 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "Redwood",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "ElevenLabs",
+	"Description": "Redwood Project Restricted Plugin - Any usage must be pre-approved on a case-by-case basis via Legal service desk: https://jira.it.epicgames.com/servicedesk/customer/portal/5/create/4027",
+	"Category": "Redwood",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ElevenLabs",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ElevenLabsEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "DataRegistry",
+			"Enabled": true
+		},
+		{
+			"Name": "HashicorpVault",
+			"Enabled": true,
+			"TargetAllowList": [ "Editor" ]
+		},
+		{
+			"Name": "RedwoodCommon",
+			"Enabled": true
+		}
+	]
+}

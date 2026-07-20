@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"Hotfixable": true,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"Description": "Contains the atom assets and config that UEFN need (This should be refactored in the future but those asset need to live here for now to avoid leaks)",
+	"FortReleaseVersion": "29.01",
+	"EditorCustomVirtualPath": "FNE/Lime",
+	"Modules": [
+		{
+			"Name": "AtomFNEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AtomFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeAtomAssets",
+			"Enabled": true
+		}
+	]
+}

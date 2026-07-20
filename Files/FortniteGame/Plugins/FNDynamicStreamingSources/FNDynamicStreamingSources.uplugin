@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "FNDynamicStreamingSources",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [
+		{
+			"Name": "FNDynamicStreamingSources",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FNDynamicScalability",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

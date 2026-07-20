@@ -1,0 +1,136 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Handhelds",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_CookFishCollect",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_EventValentines_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_DimSumRestaurant_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_AnarchyAcres_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_Vault_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_SushiRestaurant_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_Club_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_LionKnight_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_DarkAcademy_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_BFFestival_EVG_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_Potions_Gameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_LunarNew_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_JobGardener_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_AnimalCare",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_PEPE_EVG",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Sprout/Gameplay",
+	"NoCode": true
+}

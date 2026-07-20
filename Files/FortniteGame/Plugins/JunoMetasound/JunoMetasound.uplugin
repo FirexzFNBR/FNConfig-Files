@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"EnabledByDefault": true,
+	"EditorCustomVirtualPath": "JunoMetasound",
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"Version": 1,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Contains additional metasound features for Juno",
+	"Category": "Audio",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "JunoMetasound",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Metasound",
+			"Enabled": true
+		},
+		{
+			"Name": "Synthesis",
+			"Enabled": true
+		}
+	]
+}

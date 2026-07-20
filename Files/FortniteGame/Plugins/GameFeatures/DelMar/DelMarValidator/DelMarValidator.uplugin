@@ -1,0 +1,56 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "EditorCustomVirtualPath": "DelMar",
+	"FortReleaseVersion": "33.20",
+	"Modules": [
+		{
+			"Name": "DelMarValidator",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "DelMarValidatorCommon",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "DelMarValidatorEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+    "Plugins": [
+		{
+			"Name": "DelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_DelMarPlayerStart",
+			"Enabled": true
+		}
+	],
+    "Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "DelMarValidator",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,227 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "41.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "ClusterBombGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TakedownMedallion",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaStronghold",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		},
+		{
+			"Name": "ShieldBubble",
+			"Enabled": true
+		},
+		{
+			"Name": "ResolveGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FlexLegendWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MistRaven",
+			"Enabled": true
+		},
+		{
+			"Name": "GravWellGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeDualRevolversGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CubeSurfing",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "ShockwaveMace",
+			"Enabled": true
+		},
+		{
+			"Name": "KatanaGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ScoutDrone",
+			"Enabled": true
+		},
+		{
+			"Name": "ShielderGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DaisyWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseChainWhipGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseZeusGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGloves",
+			"Enabled": true
+		},
+		{
+			"Name": "AncientWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "IceCream",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "NitroGauntletsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "UnstableLiquidGun",
+			"Enabled": true
+		},
+		{
+			"Name": "BallisticShieldGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFlyingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SalineCabinet",
+			"Enabled": true
+		},
+		{
+			"Name": "MarksmanVisorGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BeastGirlStormClawsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MilitiaExpire",
+			"Enabled": true
+		},
+		{
+			"Name": "Area51Gun",
+			"Enabled": true
+		},
+		{
+			"Name": "WingSuit",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonCartWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartRifle",
+			"Enabled": true
+		},
+		{
+			"Name": "IronTulipWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FeralCorgiGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalSnowGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "IceSkates",
+			"Enabled": true
+		},
+		{
+			"Name": "MedCloud",
+			"Enabled": true
+		},
+		{
+			"Name": "AgileChugJugGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true
+		}
+	]
+}

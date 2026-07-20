@@ -1,0 +1,203 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "EntityFramework",
+	"VerseScope": "PublicAPI",
+	"Description": "",
+	"Category": "Verse",
+	"TestConfig":
+	{
+		"TestPlugin": "SceneGraphTests"
+	},
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ActorEntity",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "AgentGroup",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "Entity",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntityLevel",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntitySimulation",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntityStreaming",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntitySequencer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EntitySequencerEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "Execution",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "Component",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntityEditor",
+			"Type": "Editor"
+		},
+		{
+			"Name": "EntityPrefabEditor",
+			"Type": "Editor"
+		},
+		{
+			"Name": "ComponentEditor",
+			"Type": "Editor"
+		},
+		{
+			"Name": "RigidPhysicsCore",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntityRegistry",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "EntitySkeletalAnimation",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntitySkeletalAnimationEditor",
+			"Type": "Editor"
+		},
+		{
+			"Name": "EntityLandscape",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "EntityModifiers",
+			"Type": "Runtime"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EpicGamesTemporary",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicGamesEngineRestricted",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseColors",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseTags",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseRestricted",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulationMetadata",
+			"Enabled": true
+		},
+		{
+			"Name": "MassGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "UIFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorDataStorage",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "EditorDataStorageFeatures",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "InstanceDataObjectFixupTool",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "AdvancedRenamer",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "VerseSpatialMath",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseModifier",
+			"Enabled": true
+		},
+		{
+			"Name": "UAF",
+			"Enabled": true
+		},
+		{
+			"Name": "UAFAnimGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "RigVM",
+			"Enabled": true
+		},
+		{
+			"Name": "UAFControlRig",
+			"Enabled": true
+		}
+	],
+	"IsExperimentalVersion": false
+}

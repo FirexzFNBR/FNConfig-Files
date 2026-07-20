@@ -1,0 +1,227 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"ClientOnly": true,
+	"FortReleaseVersion": "39.10",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/UI",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "JunoTabascoUI",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"Modules": [
+		{
+			"Name": "JunoTabascoUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoExclusiveUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoComponentCraftingUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Cow_Tabasco",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Sheep_Tabasco",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFTUEModalUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Dragon",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_bearIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Crawler_Tabasco",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Scenarios",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoEnemies",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoLemon",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMint",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoMaple",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "TabascoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMarsWeaponTwoHandedHammer",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTwoHandedHammerTierExpansionA",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponTwoHandedHammer",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoDualDaggersTierExpansionA",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMarsWeaponDualDaggers",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponDualDaggers",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMarsWeaponPlasmaPistols",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPlasmaPistolsTierExpansionA",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponPlasmaPistols",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponNunchucks",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponShuriken",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCrossbowTierExpansionA",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTeleport",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTouchCommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponScythe",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWeaponKatana",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMistRavenItems",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameUILibrary",
+			"Enabled": true
+		}
+	]
+}

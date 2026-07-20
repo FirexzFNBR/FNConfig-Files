@@ -1,0 +1,73 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"EditorCustomVirtualPath": "FNE/Nebula/FNEBrinePot",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Plugins": [
+		{
+			"Name": "PlotTwist",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "PlayerAugmentsCode",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ShielderGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Ranged",
+			"Enabled": true
+		},
+		{
+			"Name": "FNECalmRock",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Lobster",
+			"Enabled": true
+		},
+		{
+			"Name": "Galileo",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_Galileo_Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	]
+}

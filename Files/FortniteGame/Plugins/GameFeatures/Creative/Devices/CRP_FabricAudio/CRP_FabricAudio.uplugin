@@ -1,0 +1,111 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative",
+	"FortReleaseVersion": "29.30",
+	"Version": 1,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "Fabric",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_DrumSequencer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricNoteTrigger",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularBassSynth",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularDrumPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularEchoEffect",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularEmitter",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularGlobalMusicController",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularProgressor",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularSequencer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_ModularWaveGenerator",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricValueSetter",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricInstrumentPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricDistortionEffect",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricStepModulator",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricCableSplitter",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricGain",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_FabricFilter",
+			"Enabled": true
+		},
+		{
+			"Name": "FMDeviceCables",
+			"Enabled": true
+		},
+		{
+			"Name": "FMInWorldKnobs",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "CRP_FabricAudio",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

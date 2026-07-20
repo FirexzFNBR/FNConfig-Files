@@ -1,0 +1,21 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "PhysicsObjectReplication",
+	"Description": "Temporary replacement of physics replication to get it working with PhysicsObjects in Juno without potentially breaking physics replication in any other project",
+	"Category": "Editor",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"CanContainContent": false,
+	"ExplicitlyLoaded": true,
+	"Installed": false,
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "PhysicsObjectReplication",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

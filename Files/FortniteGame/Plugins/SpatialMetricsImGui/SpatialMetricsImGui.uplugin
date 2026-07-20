@@ -1,0 +1,44 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Spatial Metrics ImGui",
+	"Description": "Contains ImGui debugger for Spatial Metrics",
+	"Category": "Profiling",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"EnabledByDefault": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "SpatialMetricsImGui",
+	"Modules": [
+		{
+			"Name": "SpatialMetricsImGui",
+			"Type": "DeveloperTool",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "SpatialMetricsEditorImGui",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ImGui",
+			"Enabled": true
+		},
+		{
+			"Name": "SpatialMetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "WorldMetrics",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "30.30",
+	"NoRedist": false,
+	"EditorCustomVirtualPath": "FNE/Lime/Devices",
+	"Plugins": [
+		{
+			"Name": "CRD_PlayerSpawn",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "Lime",
+			"Enabled": true
+		}
+	]
+}

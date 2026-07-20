@@ -1,0 +1,258 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "DelMar/CoD",
+	"FortReleaseVersion": "41.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 70,
+	"DisallowedPlugins": [
+		{
+			"Name": "SparksCommon",
+			"Comment": "SparksCommon should not be included in products outside of Sparks to avoid bloating shared chunk."
+		},
+		{
+			"Name": "JunoGame",
+			"Comment": "JunoGame is too large to be allowed in other products."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticShoes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMar_Habanero_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMar_LongSmoke_02_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMar_LongSmoke_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarCommonAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarDiorama",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarLimited",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarModerator",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarPlayButton",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarPlayspace",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarRendering",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarSettings",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarSharedUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarTools",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarTrack",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarTrackSelectorUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortnitePlatformUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ORS",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ProductConfigs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_Terrabulb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StainlessAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

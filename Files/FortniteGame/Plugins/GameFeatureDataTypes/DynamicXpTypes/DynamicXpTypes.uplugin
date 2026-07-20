@@ -1,0 +1,15 @@
+﻿{
+	"FileVersion": 3,
+	"CanContainContent": false,
+	"EnabledByDefault": true,
+	"FortReleaseVersion": "19.00",
+	"Modules": [
+		{
+			"Name": "FortniteDynamicXpTypes",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"Installed": false
+}

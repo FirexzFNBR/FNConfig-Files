@@ -1,0 +1,52 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "Redwood",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "Google Gemini",
+	"Description": "Redwood Project Restricted Plugin - Any usage must be pre-approved on a case-by-case basis via Legal service desk: https://jira.it.epicgames.com/servicedesk/customer/portal/5/create/4027",
+	"Category": "Redwood",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GoogleGemini",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowlist": [ "Win64", "Linux", "LinuxArm64" ]
+		},
+		{
+			"Name": "GoogleGeminiEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ChatCompletion",
+			"Enabled": true
+		},
+		{
+			"Name": "PlatformCrypto",
+			"Enabled": true
+		},
+		{
+			"Name": "OidcAuthentication",
+			"Enabled": true
+		},
+		{
+			"Name": "HashicorpVault",
+			"Enabled": true,
+			"TargetAllowList": [ "Editor" ]
+		}
+	]
+}

@@ -1,0 +1,363 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "28.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Juno/Common/Gameplay",
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWorldManagement",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "PolylineGraph",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartObjectLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true
+		},
+		{
+			"Name": "FortRuntimeLandscape",
+			"Enabled": true
+		},
+		{
+			"Name": "Motorboat",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCannon",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHeldObjectCore",
+			"Enabled": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "Landmass",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_LonelyLodge",
+			"Enabled": true
+		},
+		{
+			"Name": "FortControlRigUnits",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_LowFrills",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_TiltedTowers",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_DEPRECATED_ASSETS",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Palace",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPlayspaceMigration",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudio_Destruction",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusicContent",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_LionKnightCastle_Extra",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_SidewalkFoundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudio_Creatures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWorldInteractions",
+			"Enabled": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoArtWeaponBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_CozyHouse_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AncientPalace_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true
+		},
+		{
+			"Name": "ControlRigLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "RidingCode",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNGameTravel",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPersistence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioClusters_Trees",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNTG_Consumable",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FortAudioClusters_Trees",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacterNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSharedNative",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNTacticalSprint",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNSharedAnim",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoStamina",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "JunoGame",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"DisallowedPlugins": [
+		{
+			"Name": "RidingContent",
+			"Comment": "Brings in Valet"
+		}
+	]
+}

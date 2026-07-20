@@ -1,0 +1,115 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"FortReleaseVersion": "40.00",
+	"Plugins": [
+		{
+			"Name": "Locker",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "MyLoadout",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FigureCosmeticsFrontend",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "CosmeticCompanionsFrontend",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "VehiclesFrontend",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "CosmeticShoes",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoCosmeticCompanions",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FMJamCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "DelMarCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "BeanstalkCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FMCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "VehicleCosmeticsPreview",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ProductConfigs",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Main entry point to be able to show the standard locker with ALL cosmetic slots enabled for it.",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "LockerSystem",
+	"NoCode": true
+}

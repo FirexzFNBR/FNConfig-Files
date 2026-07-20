@@ -1,0 +1,161 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "BlitzRoyale",
+	"Plugins": [
+		{
+			"Name": "BlastBerryMapUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseFortnite",
+			"Enabled": true
+		},
+		{
+			"Name": "ForbiddenFruitDataTables",
+			"Enabled": true
+		},
+		{
+			"Name": "ForbiddenFruitPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayerAugments",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayerAugmentsCode",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "MoonflaxMedallions",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorMedallionsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseMedallionsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUnvaulted",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SpecialSupplyDrop",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFactionChestGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeHeroRankingUI",
+			"Enabled": true
+		},
+		{
+			"Name": "MedallionUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeBoonsUI",
+			"Enabled": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true
+		},
+		{
+			"Name": "Itemization",
+			"Enabled": true,
+			"Activate": true,
+			"Optional": true
+		},
+		{
+			"Name": "YokeHopKeeper",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonCartWads",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	]
+}

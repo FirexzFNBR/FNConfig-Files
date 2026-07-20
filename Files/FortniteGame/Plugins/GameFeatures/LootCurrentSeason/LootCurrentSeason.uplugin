@@ -1,0 +1,467 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "38.00",
+	"Plugins": [
+		{
+			"Name": "DaisyWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoCloak",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGloves",
+			"Enabled": true
+		},
+		{
+			"Name": "Fringeplank_Firework",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionItems",
+			"Enabled": true
+		},
+		{
+			"Name": "SawbladeGun",
+			"Enabled": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "IceCream",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "KeysAndLocks",
+			"Enabled": true
+		},
+		{
+			"Name": "HeadsetGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "LaunchPadItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ResolveGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SupplyDropRadioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGlider",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "ShockwaveMace",
+			"Enabled": true
+		},
+		{
+			"Name": "CobraDMR",
+			"Enabled": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true
+		},
+		{
+			"Name": "RadicalWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "AncientWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoSwarmGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "BigBushGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "HopscotchWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RocketRamGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "EMPGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ToggleZoomDMRGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "Smartgun",
+			"Enabled": true
+		},
+		{
+			"Name": "BallisticShieldGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ClusterBombGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleWeapon",
+			"Enabled": true
+		},
+		{
+			"Name": "TakedownMedallion",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaStronghold",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployableTurretGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFlyingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseChainWhipGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseConsumablesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseZeusGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		},
+		{
+			"Name": "ShieldBubble",
+			"Enabled": true
+		},
+		{
+			"Name": "MoonFlaxWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MoonflaxMedallions",
+			"Enabled": true
+		},
+		{
+			"Name": "KatanaGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FlexLegendWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VampireStakeGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DemonMaskFire",
+			"Enabled": true
+		},
+		{
+			"Name": "DemonMaskVoid",
+			"Enabled": true
+		},
+		{
+			"Name": "MasamuneGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FirePetalBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BRWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUnvaulted",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ThermalLanceGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MedCloud",
+			"Enabled": true
+		},
+		{
+			"Name": "AgileChugJugGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "RocketDrillGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DeployedCoverGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ThrownMarkingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonPopGameplayContent",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorMedallionsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "VividRazorConsumablesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ElectroBatGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ThermiteGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BeastGirlStormClawsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeBoonsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SalineCabinet",
+			"Enabled": true
+		},
+		{
+			"Name": "MistRaven",
+			"Enabled": true
+		},
+		{
+			"Name": "GravWellGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MarksmanVisorGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CubeSurfing",
+			"Enabled": true
+		},
+		{
+			"Name": "CherrySmokeDualRevolversGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ShielderGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ScoutDrone",
+			"Enabled": true
+		},
+		{
+			"Name": "UnstableLiquidGun",
+			"Enabled": true
+		},
+		{
+			"Name": "NitroGauntletsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SpiresGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ZeroPoint",
+			"Enabled": true
+		},
+		{
+			"Name": "WhisperRemedySour",
+			"Enabled": true
+		},
+		{
+			"Name": "ProtoSwarm",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ClusterLauncher",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCranePrototype",
+			"Enabled": true
+		},
+		{
+			"Name": "PiewPistolGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "NanaimoBar",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneMedallionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CrimsonMist",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneDropPod",
+			"Enabled": true
+		},
+		{
+			"Name": "KetchupChips",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneBoonGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TidalCraneExotics",
+			"Enabled": true
+		},
+		{
+			"Name": "ChainsawGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FlexLegendMedallionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "FNMStalkerKnife",
+			"Enabled": true
+		},
+		{
+			"Name": "WildEstateWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "OrbitalBombardment",
+			"Enabled": true
+		},
+		{
+			"Name": "WildEstateConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "BeetCalf",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"BuiltInInitialFeatureState": "Registered"
+}

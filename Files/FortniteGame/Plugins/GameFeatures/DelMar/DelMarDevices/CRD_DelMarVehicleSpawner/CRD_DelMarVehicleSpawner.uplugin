@@ -1,0 +1,85 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "33.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative",
+	"Plugins": [
+		{
+			"Name": "DelMarCore",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarGame",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarUI",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarSettings",
+			"Enabled": true
+		},
+		{
+			"Name": "DelMarSharedUI",
+			"Enabled": true
+		},
+		{
+			"Name": "CRD_VehicleSpawners",
+			"Enabled": true
+		},
+		{
+			"Name": "VehicleCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortDelMarVehicle",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "CRD_FortDelMarVehicleSpawner",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "FortDelMarGame",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_DelMarVehicleSpawner",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

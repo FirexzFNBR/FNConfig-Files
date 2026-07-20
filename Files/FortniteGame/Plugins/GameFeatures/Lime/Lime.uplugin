@@ -1,0 +1,88 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "30.30",
+	"NoRedist": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"Hotfixable": true,
+	"EditorCustomVirtualPath": "Lime",
+	"Plugins": [
+		{
+			"Name": "AtomFN",
+			"Enabled": true
+		},
+		{
+			"Name": "LimeNative",
+			"Enabled": true
+		},
+		{
+			"Name": "ClamberingContent",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "JunoAudio_Destruction",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCoreDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCharacterNative",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNTacticalSprint",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

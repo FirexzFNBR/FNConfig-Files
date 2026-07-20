@@ -1,0 +1,459 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EditorCustomVirtualPath": "Figment",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "CreativeCoreDevices",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_Auto_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_AutoHigh_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_LMG_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_SemiAuto_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_Surgical_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Bandage",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Bush",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_AutoHeavy_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Launcher_Grenade_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_AutoHeavySuppressed_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_Scavenger_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Launcher_Rocket_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_SemiAuto_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_SixShooter_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_Suppressed_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Shotgun_SemiAuto_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Shotgun_Standard_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_BoltAction_Scope_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_MedKitV2",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Grenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Medkit",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Campfire_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_ContextTrap_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_BandageV2",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_ChugJug",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_DanceGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_KnockGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_PurpleStuff",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_ShieldPotV2",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Shields",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_SmallShieldV2",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_SmokeGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_LaunchPadItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_AMR_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_Crossbow_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_Standard_Scope_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Ceiling_Electric_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Jump_Pad_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Jump_Pad_Free_Direction_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Floor_Player_Launch_Pad_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Wall_Electric_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "LaunchPadItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_Handcannon_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_LMGSAW_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_TowerGrenade_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_C4_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_NoScope_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Clinger_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Shotgun_Heavy_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "BikeKid",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_Surgical_Thermal_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_DualPistol_SemiAuto_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_AutoDrum_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Context_BouncePad_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Jetpack_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Forage_Hoprock",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Forage_SmallHealth",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Forage_SmallShield",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_GasGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_SubmachineGun_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_Heavy_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Shotgun_DoubleBarrel_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_CompactSMG_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_Suppressed_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Rift_Item",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_SuperTowerGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_ShockGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Hook_Gun",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_Heavy_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Context_Freeze",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Launcher_Quad_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Balloon",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_MountedTurret_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Dynamite",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_Crossbow_FiendHunter",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_Revolver_SingleAction",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Launcher_Pumpkin_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_HavocStone",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_FireworksMortar",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Glider_Item",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_Suppressed_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_Infantry_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_Scoped_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_BoomBox_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_GiftBox",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_SneakySnowman",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Pistol_Flintlock_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_ExplosiveBow_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Trap_Context_PoisonDart",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Banana",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Coconut",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Pepper",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_IceGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_Booty",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Athena_ShadowBomb",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_InfinityBlade",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Combat_Shotgun",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Assault_PistolCalibur_AR",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Grenade_Launcher_Prox",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Burst_SMG",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_DeployableStorm",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_AirStrike",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Shotgun_AutoDrum",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_ChugSplash",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Sniper_Weather_Athena",
+			"Enabled": true
+		},
+		{
+			"Name": "Figment_Martin",
+			"Enabled": true
+		}
+	]
+}

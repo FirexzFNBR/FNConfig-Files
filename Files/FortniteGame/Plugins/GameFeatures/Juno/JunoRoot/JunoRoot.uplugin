@@ -1,0 +1,4787 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"EditorCustomVirtualPath": "Juno/Odyssey/Core",
+	"FortReleaseVersion": "41.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 60,
+	"DisallowedPlugins": [
+		{
+			"Name": "DelMarGame",
+			"Comment": "Juno should not depend on the DelMar product, it will explode download sizes. Something is likely configured wrong."
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Comment": "STW is not allowed in this product."
+		},
+		{
+			"Name": "SparksCommon",
+			"Comment": "SparksCommon should not be included in products outside of Sparks to avoid bloating shared chunk."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AICore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AwfulDuck",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassPermanentQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BlastBerryEcosystemQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Bounties",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChaosMeteor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ClamberingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompanionsProgression",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ContextualTraversal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ControlRigLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticItemFlowgraph",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticsDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomizableJunoTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomizableTacticalSprint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CustomizableUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DebugUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeimosAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DynamicBacchusHUD",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheelContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Encounters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EncountersDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Energy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EnhancedChew",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureCharacter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureCharacterNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJam",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJamCharacter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJamInLobby",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamDecks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamQuickMix",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMPawnBoombox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNDynamicScalability",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortAudioGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteGameplayTouchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortnitePlatformUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteRuntimeCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortWaterAdvanced",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GDEVSharedLighting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Inferno",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Irwin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JumpsuitQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Juno_KlomboEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Juno_NeptuneEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Juno_PhysicsToy_Wheels",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Juno_SpireHologram",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAdventures",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAIDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAnimationNeptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAnubisLWM",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAnubisUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoArtBuilding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoArtGameplayItem",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoArtProp",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoArtWeaponBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoArtWeaponNeptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAudio_Creatures",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAudio_Destruction",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAudio_OsirisWreck",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAudioClusters_Trees",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBalloons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBattleBus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBattleBusUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBlankPlugin",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBoombox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBoomboxUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCannon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Common",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Experimental",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Klombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Lava",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Rift",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Ruins",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCaves_Surface",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCodexUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCodexUI_CBC",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoComponentCrafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoComponentCrafting_Enemies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoComponentCrafting_NeptuneEnemies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoComponentCraftingUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoContractBoardUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoControlUnit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoControlUnitUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoConveyorBelt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCosmeticCompanions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Bear",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Bear_Oni",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BearEarth",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BearFire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BearFrost",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_bearIce",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BearLightning",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Brute",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BruteAnubis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BruteFrost",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BruteSand",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_BruteSpire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_ButterCake",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_ButterCakeMamma",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Chicken",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Cow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Cow_Anubis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Cow_Tabasco",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_CowMountain",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Crawler",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Crawler_Oni",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Crawler_Storm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Crawler_Tabasco",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Critter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Docile",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Chaos",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Earth",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Fire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Ice",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Kraken",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Dragon_Lightning",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Golem",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Golem_Oni",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_GolemFishstick",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_GolemPeely",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_GolemTomato",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_HermitCrab",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_MimicChest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_OsirisGerbil",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Pachyderm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Pachyderm_Anubis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Pet",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Pig",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Ram",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Rocky",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockyBoomer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockyEarth",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockyFire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockyIce",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockyLightning",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockyRift",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockySand",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_RockySnow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Scorpion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_ScorpionFrost",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_ScorpionSand",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Sheep",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Sheep_Tabasco",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Spider",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_SpiderFrost",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_SpiderSand",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_SpireBoss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_StormKing",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Taming",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_TamingUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Wolf",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_Wolf_Anubis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfDesert",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfEarth",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfFire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfIce",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfLightning",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfSkeleton",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfSkeletonGlow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreature_WolfSnow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreatureCodex_BruteSpire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCreaturesShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCritterNest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCritterSurprise",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCrossbowTierExpansionA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoDagger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoDamageNumbers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoDualDaggersTierExpansionA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoElementalGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoElementalUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersCombatSprinkle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersCombatSprinkle_Klombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersCombatSprinkle_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersCombatSprinkle_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersDurrBurger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersEasterIslandHead",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersExamples",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersExtensions_Klombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersGhostChest",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersHatch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersLootLlama",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersLootLlama_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersPOI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersRainbow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersRiftButterfly",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersRiftButterfly_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersRiftButterfly_Rifted",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersSharkShip",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersSKPortal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersStatuePuzzle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEncountersSupplyDrop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_Common",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_DeathTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_ImperialOfficer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_RebelScout",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_SandTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_ScoutTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_SnowTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_Stormtrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemies_Osiris_TIEPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemiesHedgeMalt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemiesHedgeMaltMeleeCodex",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemyCodexMaskMaker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEnemyCodexSpireHenchmen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEssences",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoEventAnubis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoExclusive",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoExclusiveUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFactions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFactions_Klombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFactions_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFactions_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFishing",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFocusShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFTUEModalUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoGameMobileUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoGameplayCapture",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoGameUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoGameUILibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHeavyCrossbow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHeldObjectCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHighStakes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHijinks_LivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHijinksEngagement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHijinksGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHijinksUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHover",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHunterItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoHunterItemsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoIceCream",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoInternalTesting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoJournal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoJournalDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoJournalPotionCrafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoJournalRunes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlombo_Enemies_Common",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlombo_Enemies_Peely",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlombo_Enemies_Pirates",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlombo_Enemies_SkeletonPirates",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlombo_Enemies_TomatoCult",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlombo_LivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlomboGP",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKlomboUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoKnowledgeDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoLightningStrikeSpawns",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoLowMemoryFallback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsCraftingMaterials",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsEnemyBalancing",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsEnemyLoot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsHeroes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsHeroesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsHeroesWeaponsResearch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsHeroesWeaponsResearchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsHeroIntro",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsLivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsMaskMakerCompass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsRefinedCorruptedCrystal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsSpireLootUpdate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsSpireUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsWeaponDualDaggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsWeaponPlasmaPistols",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMarsWeaponTwoHandedHammer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMissionBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMistRavenItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMistRavenItemsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoModularMatchStats",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMusicContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMusicKlomboContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMusicNeptuneContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoMusicOsirisContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_Enemies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_Enemies_Raven",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_Enemies_Skeleton",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_Friendlies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_LivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_TowerEDL",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_Vehicles",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptune_WeaponArt",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptuneGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNeptuneUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNPCOsirisLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNPCTracker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoNPCVillagersLoadout_ComponentCrafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOpenWorldEncounters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOpenWorldLife",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOsiris_LivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOsirisGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOsirisUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOWEncHelpNPCReachPlace",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOWEncHelpToBuild",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOWEncRescue",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoOWEncSkirmish",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPersistence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlasmaPistolsTierExpansionA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlateSwitches",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlayButton",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlayerCompanion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlayerRoles",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlayerRolesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPlayspaceMigration",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPluginDependencies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_BasicShack",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_BruteLair",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_FTUE_Hijinks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_FTUE_Klombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_FTUE_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_FTUE_Village",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_FTUERedux_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_LaunchPad",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_LionKnight",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_LowFrills",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_MarsSpire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_Natural",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_Neptune_Towers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_NPCVillage_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_PeelyVillage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_PirateTown",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_PleasantPark",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_RavenCastle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_Relic",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_TomatoTemple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_TOWN_Peely_Base",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_TOWN_Peely_Plague",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOI_TOWN_Peely_Smoothie",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPoiMarkers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOIs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPOIScenarioKillNLoot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPolarisUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPortalUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPostAnubis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPotionCrafting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPowerSystem",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortRuntimeLandscape",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoProceduralWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoProceduralWorldDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoProjectile_Storm",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPrototype",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuest_Repeatable",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsHeroes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsHighStakes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsHijinks_LTM",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsInGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsOsirisTownBuilder",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsPotions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsTabascoKrakenEvent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsTabascoPart1",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoQuestsTabascoPart2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRecycleStation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRecyclingStation",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRemoteThruster",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoReplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoResearch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoResearchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRidable",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRidable_ButterCake",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRiftSpawner",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRiftWizardItems",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRiftWizardItemsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRuneForge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoRuneForgeUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Boss_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Dungeon_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Dungeon_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Relic_EIH_Klombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoScenarios_Townbuilder_Osiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoServer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSettings",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSharedMinifigEnemy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSharedNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSlideImpulse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSmokedTabasco_LivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSmokedTabascoEnemies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSmokedTabascoEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSmokedTabascoNPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSmokedTabascoObjectives",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSmokedTabascoShatterSpawnEvent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSnowballGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSpearTierExpansionA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoStamina",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoStandaloneQuestUI_V2",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoStationaryCannon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoStationaryCannonUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSurvivalLowMemoryFallback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSwivelPlate",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSwordTierExpansionA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabasco_LivingWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoBuffShrine",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoBumperObjective",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoChili",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoChiliResearchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoCreaky",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoDragonArena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoDummy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoEncountersContractBoard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoEnemies",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoEnemyWeapons",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoEventKraken",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoEventKrakenJournal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoFlyover_IceDragon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoGolden",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoInvasion",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoLemon",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoMaple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoMint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoNPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoNPCShrewdBlizzard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoNPCShrewdEgg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoNPCShrewdEmber",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoObjectives",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPlain",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_EarthTemple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_ElementalShrine",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_IceTemple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_LightningTemple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_MaskMakerCitadel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Monastery",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_Scenarios",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_TabascoCity",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_TabascoMonestary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoPOI_TempleScenarios",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoResearch",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoResearchUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoRoadPatrolEncounters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoScrollPickup",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoTease",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoTwist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTabascoWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTeleport",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTeleportUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AcademyPotion_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipBattleBus_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipLeviathan_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipLeviathan_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipLootLlama_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipLootLlama_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipTabasco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AirshipTabasco_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AnimalRescue_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ANP",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AnubisSettlement_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_AnubisVehicles_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Arcade_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ArtCollective_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ArtCollectiveB_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ArtDeco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_BattleBusProps",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_BFFestival_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_BounceHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_BrickBuilt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_BrightBionic_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_BubbleTeaShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CactusRMT_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CandySummer_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CarShowroom_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CatCafe_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityBillboard_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityHall_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityHall_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityPopulation_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityPopulation_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CityScaffold_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Club_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ConcertStage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ConcertStage_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CookFishCollect",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CosmicLabs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_CraftsmanLodge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_DarkAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_DarkAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_DimSumRestaurant_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_DimSumRestaurant_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_DurrBurger_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_EventValentines_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ForecastShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Frankenstein",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericAwnings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericBeams_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericChristmas_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericDecor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericFences_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericFloors_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericMouldings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericRailings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericRoof_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericRopeBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericStairs_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericSupports_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericTrims_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericWalls_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_GenericWallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Gym_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Gym_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_HauntedHouse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_HeavyMetalKitchen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_HighRise_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_HighStakes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Hologram_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_HotelBoutique_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_JobGardener_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_JunglePug_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_LonelyLodgePavillion_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_LunarNew_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_MaskMakerCitadel_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_MaskMakerCitadel_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_MechanicShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_MechanicShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_ModernHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_PirateTown_Tower",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Porridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_PorridgeHome_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_PorridgeHome_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_PorridgePower_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RainbowLute",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RavenCastle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RetailCinema_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RetailCinema_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RetailClub_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RetailElevator_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RetailFurnitureStore_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RetailVault_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RewardsJob_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_RiotFly_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SharedAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SightSpaniel_Props",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SpireExcavation_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SpireExcavation_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_StoutWhiz_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_StreetDecor_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_StrideMicePyramid_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_StrideMicePyramid_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Summer_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SummerBuild_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SuperheroAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SuperheroAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SuperHeroAcademyBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SuperHeroAcademyBridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SuperheroRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SupplyDrop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_SushiRestaurant_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoCity_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoCity_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoGeneric_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoKraken_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoMonastery_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoMonastery_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoOniClanDestroyed_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoOniClanOutpost_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoOniClanOutpost_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoPartTwo_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoRaidZeppelin_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoShatterDragon_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoShipwreck_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoShipwreck_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleChili_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleLemon_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleMaple_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoTempleMint_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TabascoToy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_TomatoHead_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_UpscaleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Vampire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Vault_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_VehicleSportsCar_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_Villa_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_WallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_WasabiRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTG_WinterBirthday",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_AnarchyAcres",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_BasicShack",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_BasicShelter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_BattleBus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_BeachRentals",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_BlueBeachHouse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_BriteBomb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_CastleResidence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_ColonyOsirisBunker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_DEPRECATED_ASSETS",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_DurrBurger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_FishingDocks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_Lighthouse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_LionKnight",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_LionKnightCastle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_LowFrills",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_NewsPaperBuilding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_NewYorkApartment",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_BasicShelter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_CastleResidence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_Pollen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisColony_Shared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_BasicShelter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_CastleResidence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_Shared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisTown",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWreck_Conan",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWreck_Pollen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWreck_Professor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWreck_Scar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWreck_Windsor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_Palace",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_PeelyVillage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_PirateTown",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_PleasantPark",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_SidewalkFoundations",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_TiltedTowers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_TomatoTemple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTheme_Wasteland",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_AnarchyAcres",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BasicShelter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BattleBus",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BeachRentals",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BlueBeachHouse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BriteBomb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_CastleResidence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_ColonyOsirisBunker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_DurrBurger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Lighthouse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_LionKnightCastle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_LionKnightCastle_Extra",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_NewsPaperBuilding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_NewYorkApartment",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_BasicShelter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_CastleResidence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_Pollen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisColony_Shared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_BasicShelter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_CastleResidence",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_LonelyLodge",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisSurvivor_Shared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_OsirisTown",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_PeelyVillage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_PirateTown",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_SidewalkFoundations",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_TomatoTemple",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Wasteland",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTilesBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTilesKlombo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTilesNeptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTilesOsiris",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTilesTabasco",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AcademyPotion_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipBattleBus_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLootLlama_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipLootLlama_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipTabasco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AirshipTabasco_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AncientPalace_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AnimalRescue_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ANP",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AnubisSettlement_bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_AnubisVehicles_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Arcade_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ArtCollective_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ArtCollective_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ArtCollectiveB_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ArtDeco_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BattleBusProps",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BFFestival_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BounceHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BountyBoard",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BrickBuilt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BrightBionic_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_BubbleTeaShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CactusRMT_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CandySummer_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CarShowroom_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CatCafe_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityBillboard_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityHall_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityHall_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityPopulation_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityPopulation_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CityScaffold_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Club_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ConcertStage",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ConcertStage_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CookFishCollect",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CosmicLabs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_CozyHouse_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_DarkAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_DarkAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_DimSumRestaurant_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_DimSumRestaurant_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_DurrBurger_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_EventValentines_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ForecastShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Frankenstein",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_FrontShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GameShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Generic_Props",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericAwnings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericBeams_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericChristmas_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericDecor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericFences_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericFloors_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericMouldings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRailings_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRoof_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRopeBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericRubble_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericStairs_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericSupports_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericWalls_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_GenericWallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Gym_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Gym_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HauntedHouse",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HeavyMetalKitchen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HighRise_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HighStakes",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Hologram_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HotelBoutique_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_HoverBoardShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Hub_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_JobGardener_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_JunglePug_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Lighthouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_LonelyLodgePavillion_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_LunarNew_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_MaskMakerCitadel_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_MechanicShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_MechanicShop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ModernHouse_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Neptune",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PirateTown_Tower",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PizzaShop_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Porridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgeHome_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgeHome_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgePower_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_PorridgeTeaser_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RainbowLute",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RavenCastle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Requests_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailCinema_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailClub_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailElevator_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailFurnitureStore_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RetailVault_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RewardsJob_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RiotFly_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_RiotFlyArchway_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SharedAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_ShipItExpress_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SightSpaniel_Props",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SpireExcavation_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SpireExcavation_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StoutWhiz_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StreetDecor_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StrideMicePyramid_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_StrideMicePyramid_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Summer_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SummerBuild_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperheroAcademy_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperheroAcademy_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperHeroAcademyBridge_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperHeroAcademyBridge_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SuperheroRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SupplyDrop_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_SushiRestaurant_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoGeneric_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoKraken_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoMonastery_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoOniClanDestroyed_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoOniClanOutpost_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoOniClanOutpost_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoPartTwo_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoRaidZeppelin_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoShatterDragon_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoShipwreck_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoShipwreck_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleChili_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleLemon_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleMaple_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoTempleMint_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TabascoToy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_TomatoHead_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_UpscaleResidence_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Vampire",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Vault_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_VehicleSportsCar_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Villa_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_WallsInt_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_WasabiRewards_Prop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_WinterBirthday",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTome",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTouchCommonUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTrainingStations",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTwoHandedHammerTierExpansionA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoVCUGuidedBuild",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoVCUGuidedBuild_Pack02",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoVCUGuidedBuild_Pack03",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoVehicleAudio",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoVehicles_StarterVehicle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoVendorShopUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWasabi",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponDualDaggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponKatana",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponKatanaCraftingData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponLightsaber",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponNunchucks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponPlasmaPistols",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponReticle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponScythe",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponScytheCraftingData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponShuriken",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWeaponTwoHandedHammer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWheelsDemo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWorldInteractions",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWorldManagement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWorldManagementUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Labrador",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LegacyRMTs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFN_AnubisAssets",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFN_LonelyLodgePavillion_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFN_WasabiRewards",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNAmbientLife",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNAudioContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNClambering",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNComponentCraftingCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNContentModeration",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNElementalGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNGameTravel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNGameTravelUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNNPCBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNSliding",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNStaminaUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNTabascoTwist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNTacticalSprint",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNTG_Consumable",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNVaulting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNVehicleAirship",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNVehicleBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponBlasterPistol",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponBlasterRifle",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponBowCaster",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponCrossbow",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponDualDaggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponKatana",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponLightsaber",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponNunchucks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponPlasmaPistols",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponScythe",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponShuriken",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponThermalDetonator",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LFNWeaponTwoHandedHammer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LowMemoryFallback",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Mantis",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MarsNative",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MarsWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MiscReferencersOfCosmetics",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Motorboat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlaytimeRewards",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PolylineGraph",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ProductConfigs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RankedTrooper",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RidingCode",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RidingContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_ConfectionPop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_FabulousWind",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_LacedCrimp",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_LastHour",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_PitGlass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "RMT_Terrabulb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "S40_STWPromo_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SmartObjectDebugger",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SmartObjectLibrary",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpireBoss",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StateDrivenActor",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TabascoEnv",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TabascoMusicContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TabascoWorld",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TacticalSprintGame",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TextChatDynamicUIDefault",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "WildlifeAudioNonFNE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "XPEverywhereUI",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

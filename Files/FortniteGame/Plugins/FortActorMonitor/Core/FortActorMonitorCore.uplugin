@@ -1,0 +1,25 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "0.95",
+	"FriendlyName" : "FN Actor Monitor Core",
+	"Description" : "Function library for adding read/write and execution breakpoints to functions and properties on Win64 platforms.",
+	"Category": "Debug",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault" : true,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Modules": [
+		{
+			"Name": "FortActorMonitorCore",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"FileVersion" : 3,
+
+	"FriendlyName" : "Online Services Epic Common Internal",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"Description" : "Shared FN-internal infrastructure for OnlineServicesEpicAccountInternal and OnlineServicesEpicGameInternal",
+	"Category" : "Online Platform",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "https://epicgames.com",
+	"EnabledByDefault" : false,
+
+    "Modules": [
+        {
+            "Name": "OnlineServicesEpicCommonInternal",
+            "Type": "Runtime",
+            "LoadingPhase" : "PostConfigInit"
+        }
+    ],
+	"Plugins": [
+		{
+			"Name": "OnlineServicesEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEpicCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "EOSShared",
+			"Enabled": true
+		}
+	]
+}

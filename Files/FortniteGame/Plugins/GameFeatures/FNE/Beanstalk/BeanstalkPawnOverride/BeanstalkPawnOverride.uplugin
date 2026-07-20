@@ -1,0 +1,39 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "30.30",
+	"Version": 0,
+	"VersionName": "1.0",
+	"FriendlyName": "",
+	"Description": "Simple plugin that sets the gameplay product tag override to Beanstalk when active",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "FNE/Beanstalk",
+	"LocalizationTargets": [
+		{
+			"Name": "BeanstalkPawnOverride",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BeanstalkManagers",
+			"Enabled": true,
+			"Activate": true
+		}
+	]
+}

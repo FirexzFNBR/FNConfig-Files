@@ -1,0 +1,142 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoVehicles_StarterVehicle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoWheelsDemo",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoRemoteThruster",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoControlUnit",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPowerSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBalloons",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_BasicShelter",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPlateSwitches",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoVCUGuidedBuild",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoStationaryCannon",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoSwivelPlate",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoVCUGuidedBuild_Pack03",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoNeptuneGameplay",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Neptune/Gameplay",
+	"LocalizationTargets": [
+		{
+			"Name": "JunoNeptune_Vehicles",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

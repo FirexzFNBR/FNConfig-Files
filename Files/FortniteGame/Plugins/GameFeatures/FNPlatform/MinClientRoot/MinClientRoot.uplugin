@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "41.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"DisallowedPlugins": [
+		{
+			"Name": "DelMarGame",
+			"Comment": "Juno should not depend on the DelMar product, it will explode download sizes. Something is likely configured wrong."
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Comment": "STW is not allowed in this product."
+		},
+		{
+			"Name": "SparksCommon",
+			"Comment": "SparksCommon should not be included in products outside of Sparks to avoid bloating shared chunk."
+		},
+		{
+			"Name": "JunoGame",
+			"Comment": "JunoGame is too expensive to be part of min client."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Replay",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

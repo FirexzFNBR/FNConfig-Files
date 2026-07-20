@@ -1,0 +1,171 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "35.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_RiotFly_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutSmartObject",
+			"Enabled": true
+		},
+		{
+			"Name": "SmartObjects",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisWorkbench",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Handhelds",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_Hologram_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNWeaponLightsaber",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_Club_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBoombox",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_Club_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksSongSetlist",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoMusic",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_ConcertStage_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutJobs_Base",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Currency",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNCore",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_ScavengerHunt_Gameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_OsirisTown_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCreature_Domestic_OsirisGerbil",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutConversations",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Sprout/Themes/Theme_Osiris",
+	"NoCode": true,
+	"LocalizationTargets": [
+		{
+			"Name": "SproutTG_RiotFly_Prop",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"FileVersion": 1,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "S21",
+	"FortReleaseVersion": "21.10",
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "DaisyWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DaisySlurpBiome",
+			"Enabled": true
+		},
+		{
+			"Name": "DesertedGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SawbladeGun",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGloves",
+			"Enabled": true
+		},
+		{
+			"Name": "Fringeplank_Firework",
+			"Enabled": true
+		}
+	]
+}

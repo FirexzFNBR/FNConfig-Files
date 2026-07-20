@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"bIsPluginExtension": true,
+	"Plugins": [
+		{
+			"Name": "OnlineSubsystemGDK",
+			"PlatformAllowList": [ "Win64" ],
+			"Enabled": false,
+			"Optional": true
+		}
+	]
+}

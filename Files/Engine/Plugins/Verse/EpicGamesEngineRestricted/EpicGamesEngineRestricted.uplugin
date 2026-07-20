@@ -1,0 +1,56 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Epic Games Engine Restricted",
+	"Description": "Epic Games Engine Restricted API - not for public use",
+	"Category": "Verse",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainVerse": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": 
+	[
+		{
+			"Name": "EpicGamesEngineRestricted",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayMessages",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseVM",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseGameplayDebug",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealEngineExperimental",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicGamesTemporary",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "39.00",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "UI Content for Play As Vilalin",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "CH7S1",
+	"Plugins": [
+		{
+			"Name": "PlayAsVillain",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayAsVillainBosses",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "BattleRoyaleGameUI",
+			"Enabled": true
+		},
+		{
+			"Name": "TacticalSprintUI",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterConsumablesUI",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "PlayAsVillainUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	]
+}

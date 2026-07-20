@@ -1,0 +1,189 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Reload",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"VerseScope": "InternalAPI",
+	"VersePath": "/Fortnite.com",
+	"Modules": [
+		{
+			"Name": "BlastBerryRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BlastBerryCore",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMap",
+			"Enabled": true
+		},
+		{
+			"Name": "SpecialSupplyDrop",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "TacOvershield",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "VendingMachine",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseSimulation",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicGamesTemporary",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseFortnite",
+			"Enabled": true
+		},
+		{
+			"Name": "VersePlayspace",
+			"Enabled": true
+		},
+		{
+			"Name": "UnrealEngineExperimental",
+			"Enabled": true
+		},
+		{
+			"Name": "PlayspaceSystem",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMapUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryAI",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryLoot",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "HeistBasesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "LaserGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DamageNumbers",
+			"Enabled": true
+		},
+		{
+			"Name": "AthenaJackpot",
+			"Enabled": true
+		},
+		{
+			"Name": "Melt",
+			"Enabled": true
+		},
+		{
+			"Name": "Itemization",
+			"Enabled": true
+		},
+		{
+			"Name": "ReloadNative",
+			"Enabled": true
+		},
+		{
+			"Name": "YokeHopKeeper",
+			"Enabled": true
+		},
+		{
+			"Name": "RiverStyxGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversationUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

@@ -1,0 +1,18 @@
+{
+	"FileVersion": 1,
+	"CanContainContent": false,
+	"ExplicitlyLoaded": false,
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "CommChannelsRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "CommChannelsDebugRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

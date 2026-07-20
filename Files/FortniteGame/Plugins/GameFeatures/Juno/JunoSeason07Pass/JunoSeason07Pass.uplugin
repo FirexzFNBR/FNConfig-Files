@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.20",
+	"SunsetFortReleaseVersion": "41.30",
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Events/S07",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorOnly": false,
+	"Plugins": [
+		{
+			"Name": "SeasonPass",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true
+		},
+		{
+			"Name": "SparksCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoPassSharedData",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBuildingCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoCity_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_TabascoToy",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipLeviathan_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipLootLlama_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipLootLlama_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipTabasco_Bldg",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_AirshipTabasco_Prop",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "JunoSeason07Pass",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

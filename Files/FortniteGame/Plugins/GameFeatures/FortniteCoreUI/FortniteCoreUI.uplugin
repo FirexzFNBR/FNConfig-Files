@@ -1,0 +1,95 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Active",
+	"Hotfixable": false,
+	"FortReleaseVersion": "Legacy",
+	"Description": "Contains UI content core to multi-product Fortnite. Includes frontend UI assets extracted from /Game.",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Category": "",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FortniteCoreUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayEventRouter",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "VoiceRep",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineGameplayFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "SubtitlesWidgets",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemizationCore",
+			"Enabled": true
+		},
+		{
+			"Name": "StyleSheets",
+			"Enabled": true
+		},
+		{
+			"Name": "EpicCMSUIFramework",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteEarlyPreloadWidgets",
+			"Enabled": true
+		},
+		{
+			"Name": "LinkCodes",
+			"Enabled": true
+		},
+		{
+			"Name": "SocialUMG",
+			"Enabled": true
+		},
+		{
+			"Name": "LauncherSocial",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUIAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUIAudioContent",
+			"Enabled": true
+		}
+	]
+}

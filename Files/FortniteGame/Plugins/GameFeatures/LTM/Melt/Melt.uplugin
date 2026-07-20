@@ -1,0 +1,248 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "38.00",
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [
+		{
+			"Name": "MeltRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "MeltUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "Curie",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "MudGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "DaisyWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGloves",
+			"Enabled": true
+		},
+		{
+			"Name": "Fringeplank_Firework",
+			"Enabled": true
+		},
+		{
+			"Name": "FlipperGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionItems",
+			"Enabled": true
+		},
+		{
+			"Name": "PrimalGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "IceCream",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "KeysAndLocks",
+			"Enabled": true
+		},
+		{
+			"Name": "HeadsetGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "LaunchPadItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ResolveGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SupplyDropRadioGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GrappleGlider",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "CobraDMR",
+			"Enabled": true
+		},
+		{
+			"Name": "ValetMods",
+			"Enabled": true
+		},
+		{
+			"Name": "RadicalWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoSwarmGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "ChronoConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "BigBushGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "HopscotchWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "EMPGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ToggleZoomDMRGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "ClusterBombGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TakedownMedallion",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaStronghold",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseFlyingGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseChainWhipGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseConsumablesGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "SunRoseZeusGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponsUpdated",
+			"Enabled": true
+		},
+		{
+			"Name": "ShieldBubble",
+			"Enabled": true
+		},
+		{
+			"Name": "MidMatchWeaponBunkerGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "BRPlaylists",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "LootCurrentSeason",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "ZeroPoint",
+			"Enabled": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "LTM"
+}

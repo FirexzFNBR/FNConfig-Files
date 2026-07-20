@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": true,
+	"BuiltInAutoActivate": false,
+	"EditorCustomVirtualPath": "FNE/SolidWave",
+	"FortReleaseVersion": "36.10",
+	"Plugins": [
+		{
+			"Name": "SolidWaveGFSMetaData",
+			"Enabled": true
+		},
+		{
+			"Name": "SolidWaveTags",
+			"Enabled": true
+		}
+	]
+}

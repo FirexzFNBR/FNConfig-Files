@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "EditorCustomVirtualPath": "FNE/Lime/Primitives",
+    "FortReleaseVersion": "29.01",
+	"Plugins": [
+		{
+		"Name": "Primitives_Assets",
+		"Enabled": true
+		},
+		{
+            	"Name": "Musical_Walk_Assets",
+           	 "Enabled": true
+        	}
+	]
+}

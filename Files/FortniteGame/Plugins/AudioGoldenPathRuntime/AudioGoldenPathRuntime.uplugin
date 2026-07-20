@@ -1,0 +1,42 @@
+{
+	"FileVersion": 1,
+	"FriendlyName": "AudioGoldenPathRuntime",
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Audio Golden Path Prototypes and Experiments Plugin",
+	"Category": "Audio",
+	"CreatedBy": "Epic Games, Inc.",
+	"EnabledByDefault": false,
+	"CanContainContent": true,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HotWaveReloading",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ],
+			"TargetAllowList": [ "Client" ],
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		},
+		{
+			"Name": "AudioModulationSlateIMDebugger",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping" ],
+			"TargetDenyList": [ "Server" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AudioModulation",
+			"Enabled": true,
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		},
+		{
+			"Name": "SlateIM",
+			"Enabled": true,
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	]
+}

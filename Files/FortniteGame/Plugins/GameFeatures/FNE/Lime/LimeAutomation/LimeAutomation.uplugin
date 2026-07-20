@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "LimeAutomation",
+	"CanContainContent": false,
+	"Description": "Fortnite Lime Automation: Lime_RpcLibrary",
+	"FortReleaseVersion": "36.30",
+	"Category": "Other",
+	"EditorCustomVirtualPath": "FNE/Lime",
+	"Installed": false,
+	"Hidden": true,
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"Modules": [
+		{
+			"Name": "Lime_RpcLibrary",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AtomFN",
+			"Enabled": true
+		}
+	]
+}

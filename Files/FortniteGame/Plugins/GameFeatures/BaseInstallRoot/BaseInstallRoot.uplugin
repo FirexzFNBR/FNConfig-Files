@@ -1,0 +1,718 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"NoCode": true,
+	"NoGameFeatureContent": true,
+	"Sealed": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "41.20",
+	"BuiltInInitialFeatureState": "Registered",
+	"Version": 0,
+	"VersionName": "1.0",
+	"FriendlyName": "BaseInstallRoot",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ProductChunkId": 30,
+	"DisallowedPlugins": [
+		{
+			"Name": "LootCurrentSeason",
+			"Comment": "Brings in too many weapons not needed in minimal lobby."
+		},
+		{
+			"Name": "SparksLobby",
+			"Comment": "Only required for playlist info which should be handled by discovery link code."
+		},
+		{
+			"Name": "JunoGame",
+			"Comment": "JunoGame depends on too many gameplay references to be allowed in the base install."
+		},
+		{
+			"Name": "PilgrimBattleStage",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		},
+		{
+			"Name": "PilgrimCore",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		},
+		{
+			"Name": "PilgrimQuickplay",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		},
+		{
+			"Name": "SproutCore",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		},
+		{
+			"Name": "SaveTheWorld",
+			"Comment": "STW is not allowed in this product."
+		},
+		{
+			"Name": "Hermes",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		},
+		{
+			"Name": "BRMapCh6",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		},
+		{
+			"Name": "AmbientAudioContent",
+			"Comment": "Brings in too much content not needed in minimal lobby."
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Accolades",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AccoladesUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "AnnualRefundToken",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_PassQuestPrereqs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattlePassS41_SeasonPass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleExperienceFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BattleRoyaleFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeanstalkManagers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BeanstalkPawnOverride",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "BuildingLocalizationDataComponent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Career",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CareerShowcase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CareerV3",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CharacterCollectionMapScreen",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CharacterDynamicsControl",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ChewyStave",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Cilantro",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CleverGeyser_Quests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CollectionMapShared",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Compete",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompeteOldTab",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CompetitiveOnline",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticCompanionsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CosmeticItemFlowgraph",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Crew",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "CrewCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DamageNumbers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DebugUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DefaultCosmeticsAthena",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarFrontendMinimal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarGracefulUpgrade",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DelMarTrackSelectorUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeluluReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DeluluReadyUpExtensionUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "DiscoveryBrowser",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EcosystemMatchmakingSettingsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EcosystemMatchmakingUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EcosystemReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EmoteWheelContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "EnhancedChew",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FabricSettings",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_S09_PassData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Figment_SharedPassData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigmentFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJamCharacter",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FigureJamInLobby",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FlameCeleb",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMDanceSpotlight",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamInLobby",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FMJamSystem",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FN1FrameworkFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FNGameplayCues",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortMagpiePlayerInterface",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortniteUIClientPilot",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortUIAudioBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "FortUIAudioContent",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GiftBox",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Gifting",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "GlobalLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "HitTicks",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "IslandDetails",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ItemShop",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ItemWrapMapping",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoPassSharedData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoSeason07Pass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoTM_Villa_Bldg",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWorldManagement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "JunoWorldManagementUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Koala",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LimeFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "LSDVideo",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchmakingPortal",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MatchmakingSettingsFN1Shooters",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MediaServicesQA",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MimosaSharkFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MobileTextChat",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellItems_OrangeRemote",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellItems_TeaCake",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellItemsManager",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MorningBellUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Motd",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusicPassS14",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "MusicPlaylist",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData_AlpacaLean",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData_PearlTaffy",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "NPCDisplayData_TaxiHeel",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "PlayerManagement",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ProductConfigs",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuestCategories",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuestDisplayData",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "QuestUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SeasonPass",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SeasonPassHub",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "ShootersFTUE",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Sidebar",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksCore",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksMatchmakingSettingsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSongPlayer",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SparksSongTemplates",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionReadyUpErrors",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SpriteExtractionReadyUpErrorsUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutFrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "SproutProductConfig",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "Squeegee",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneFrontend",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StandaloneLocker",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "StoreSelection",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "STW_FrontendUI",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "TofuGarden",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UIKit",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "UniversalDailyQuests",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VictoryCrownsAmbience",
+			"Enabled": true,
+			"Optional": true
+		},
+		{
+			"Name": "VictoryCrownsRead",
+			"Enabled": true,
+			"Optional": true
+		}
+	]
+}

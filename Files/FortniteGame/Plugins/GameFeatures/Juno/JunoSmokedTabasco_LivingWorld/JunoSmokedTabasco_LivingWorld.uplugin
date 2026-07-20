@@ -1,0 +1,111 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.30",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_WolfLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_bearIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_BearLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyEarth",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyFire",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyIce",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_RockyLightning",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Cow_Tabasco",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCreature_Sheep_Tabasco",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCritterNest",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoHijinks_LivingWorld",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/Expansions/Tabasco/AI"
+}

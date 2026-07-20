@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "BuiltInInitialFeatureState": "Installed",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "EditorCustomVirtualPath": "FNE/Lime/Suburban",
+    "FortReleaseVersion": "29.01",
+	"Plugins": [
+		{
+		"Name": "Suburban_Assets",
+		"Enabled": true
+		}
+	]
+}

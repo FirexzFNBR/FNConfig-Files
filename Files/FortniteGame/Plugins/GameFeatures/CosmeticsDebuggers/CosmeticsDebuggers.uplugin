@@ -1,0 +1,87 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Cosmetics Debuggers",
+	"Description": "A plugin to house debugger menus based on ImGui to debug various Cosmetic systems. Requires Unreal ImGui: https://github.com/segross/UnrealImGui (c) Sebastian Gross. Uses ImGui: https://github.com/ocornut/imgui (c) Omar Cornut. MIT License.",
+	"Category": "Debugging",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"EditorCustomVirtualPath": "Cosmetics Debuggers",
+	"BuiltInInitialFeatureState": "Registered",
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"FortReleaseVersion": "29.00",
+	"Modules": [
+		{
+			"Name": "CosmeticsDebuggersRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"TargetConfigurationDenyList": [ "Shipping" ]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CosmeticsFrameworkLoadouts",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "CosmeticsFrameworkBudgeting",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "CosmeticsFrameworkFlowgraph",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "CosmeticsFrameworkArbitration",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "FortniteGameDebuggers",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "FortImGuiCore",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "OnlineGameplayFramework",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "OnlineSubsystem",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "OnlineSubsystemMcp",
+			"Enabled": true,
+			"Optional": false
+		},
+		{
+			"Name": "EpicCMSUIFramework",
+			"Enabled": true,
+			"Optional": false
+		}
+	]
+}

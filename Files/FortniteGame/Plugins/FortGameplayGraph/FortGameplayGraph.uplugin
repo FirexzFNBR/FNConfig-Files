@@ -1,0 +1,32 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "0.1",
+	"FriendlyName" : "Fortnite Gameplay Graph",
+	"Description" : "Graphs are fun.",
+	"Category": "Gameplay",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "http://epicgames.com",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault" : false,
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"IsExperimentalVersion": true,
+	"Installed" : false,
+	"Modules": [
+		{
+			"Name": "FortGameplayGraph",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayGraph",
+			"Enabled": true
+		}
+	]
+}

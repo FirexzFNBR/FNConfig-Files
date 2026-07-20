@@ -1,0 +1,43 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BeanstalkAI",
+	"EditorCustomVirtualPath": "FNE/Beanstalk",
+	"Description": "A plugin containing AI for Beanstalk like to support Test Players.",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"FortReleaseVersion": "37.30",
+	"Plugins": [
+		{
+			"Name": "BeanstalkCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "Beanstalk",
+			"Enabled": true
+		},
+		{
+			"Name": "CreativeCommonAI",
+			"Enabled": true
+		},
+		{
+			"Name": "UGCNavigation",
+			"Enabled": true
+		}
+	],
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": ""
+}

@@ -1,0 +1,59 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "41.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "MorningBellUI",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "BattlePassS41_PassQuestPrereqs",
+			"Enabled": true
+		},
+		{
+			"Name": "MorningBellQuests",
+			"Enabled": true
+		},
+		{
+			"Name": "BattlePassS41_Quests",
+			"Enabled": true
+		},
+		{
+			"Name": "MorningBellItems_OrangeRemote",
+			"Enabled": true
+		},
+		{
+			"Name": "MorningBellItems_TeaCake",
+			"Enabled": true
+		}
+	],
+	"SunsetFortReleaseVersion": "42.00"
+}

@@ -1,0 +1,63 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Verse Type Editor",
+	"Description": "Verse Type Editor",
+	"Category": "Verse",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "https://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"CanContainVerse": true,
+	"VerseScope": "InternalAPI",
+	"Modules": [
+		{
+			"Name": "VerseTypeEditorRuntime",
+			"Type": "Runtime"
+		},
+		{
+			"Name": "VerseTypeEditor",
+			"Type": "Editor"
+		},
+		{
+			"Name": "VerseTypeAssetInterop",
+			"Type": "Editor"
+		},
+		{
+			"Name": "VerseTypeAssets",
+			"Type": "Editor"
+		}
+
+	],
+	"Plugins": [
+		{
+			"Name": "Solaris",
+			"Enabled": true
+		},
+		{
+			"Name": "Verse",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseColors",
+			"Enabled": true
+		},
+		{
+			"Name": "VerseEngine",
+			"Enabled": true
+		},
+		{
+			"Name": "EditorDataStorageFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "EntityFramework",
+			"Enabled": true
+		}
+	]
+}

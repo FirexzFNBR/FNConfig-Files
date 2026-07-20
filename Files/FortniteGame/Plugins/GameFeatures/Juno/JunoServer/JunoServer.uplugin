@@ -1,0 +1,40 @@
+{
+	"BuiltInInitialFeatureState": "Registered",
+	"Description": "Juno/Sprout server, for early initialization of networking.",
+	"EditorCustomVirtualPath": "Juno/Common/Core",
+	"EnabledByDefault": false,
+	"ExplicitlyLoaded": true,
+	"FileVersion": 3,
+	"FortReleaseVersion": "28.00",
+	"FriendlyName": "JunoServer",
+	"Modules": [
+		{
+			"Name": "JunoServer",
+			"LoadingPhase": "PreDefault",
+			"NotType": "Runtime",
+			"Type": "ServerOnly"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		}
+	],
+	"Version": 1,
+	"VersionName": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

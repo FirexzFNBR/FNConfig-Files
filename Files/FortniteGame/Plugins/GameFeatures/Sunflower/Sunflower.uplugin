@@ -1,0 +1,54 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.00",
+	"Plugins": [
+		{
+			"Name": "CreativeCore",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerry",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryMap",
+			"Enabled": true
+		},
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "VKPlay",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryLoot",
+			"Enabled": true
+		},
+		{
+			"Name": "BlastBerryPlaylists",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false
+}

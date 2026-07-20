@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"Description": "Animates a skeletal mesh",
+	"Category": "Game Features",
+	"CreatedBy": "Thomas Sarkanen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"CanContainVerse": true,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative",
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "21.10",
+	"Plugins": [
+		{
+			"Name": "VerseDevices",
+			"Enabled": true
+		}
+	],
+	"FriendlyName": "",
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_AnimatedMesh",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

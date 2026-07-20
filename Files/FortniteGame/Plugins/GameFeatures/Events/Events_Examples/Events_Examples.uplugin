@@ -1,0 +1,48 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "35.00",
+	"SunsetFortReleaseVersion": "Future",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "Examples for events. This should never be cooked into the game!",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "BRCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "Events_Shared",
+			"Enabled": true
+		},
+		{
+			"Name": "SpecialEventGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "Lager",
+			"Enabled": true
+		},
+		{
+			"Name": "GrindRail",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "events"
+}

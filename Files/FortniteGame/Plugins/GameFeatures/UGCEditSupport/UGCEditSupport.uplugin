@@ -1,0 +1,10 @@
+{
+	"FileVersion": 1,
+	"FriendlyName": "UGC Edit Support",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "UGC",
+	"FortReleaseVersion": "21.00"
+}

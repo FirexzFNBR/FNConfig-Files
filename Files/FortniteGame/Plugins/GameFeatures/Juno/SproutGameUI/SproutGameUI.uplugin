@@ -1,0 +1,250 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"ClientOnly": true,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "38.00",
+	"EditorCustomVirtualPath": "Juno/Sprout/Gameplay",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SproutGameUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "BlueprintContext",
+			"Enabled": true
+		},
+		{
+			"Name": "BuilderTool",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "DynamicUI",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversation",
+			"Enabled": true
+		},
+		{
+			"Name": "ItemGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCore",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutNative",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_CellPhone",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Currency",
+			"Enabled": true
+		},
+		{
+			"Name": "Valet",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisTown",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_LionKnightCastle",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_BeachRentals",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisSurvivor_CastleResidence",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutJobs_Base",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_Handhelds",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutSmartObject",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutVehicles",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutItems_HousingShells",
+			"Enabled": true
+		},
+		{
+			"Name": "SrirachaRanch",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioCore",
+			"Enabled": true
+		},
+		{
+			"Name": "FigureCosmetics",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteCoreUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "FortUILibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "OfferCatalog",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_Infection",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_LitterBoxing_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_SoccerGame",
+			"Enabled": true
+		},
+		{
+			"Name": "FNE_UI",
+			"Enabled": true
+		},
+		{
+			"Name": "QuestUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_CookFishCollect",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNStaminaUI",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutOnlinePoll",
+			"Enabled": true
+		},
+		{
+			"Name": "LFNGameTravelUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutCreature_Domestic",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "SproutTG_JobGardener_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_CookFishCollect",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoFTUEModalUI",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameUILibrary",
+			"Enabled": true
+		}
+	],
+	"LocalizationTargets": [
+		{
+			"Name": "SproutGameUI",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

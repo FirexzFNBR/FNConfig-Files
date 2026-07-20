@@ -1,0 +1,49 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Installed",
+	"BuiltInAutoRegister": false,
+	"BuiltInAutoLoad": false,
+	"builtInAutoActivate": false,
+	"FortReleaseVersion": "39.30",
+	"Modules": [
+		{
+			"Name": "VkCloudCooked3Runtime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"VerseScope": "InternalAPI",
+	"VersePath": "/fortnite.com/VkCloudCooked3",
+	"VerseAPI": 1,
+	"ApplyMetaverseValidation": false,
+	"CookBehavior":
+	{
+		"Type": "ContentWorker",
+		"EmbedInBuild": true,
+		"EmbedInBuildChunkNames": [
+			"CreativeRoot"
+		],
+		"AutoIncludeReferencesInBaseBuild": true
+	},
+	"ValkyrieSettings":
+	{
+		"libraryFolderMode": "Absent",
+		"libraryCustomPath": ""
+	}
+}

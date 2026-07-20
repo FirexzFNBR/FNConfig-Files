@@ -1,0 +1,104 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "33.10",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "JunoBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAtomAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGameNative",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCommonArtAssets",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoGame",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoThemeMinimal_Foundations",
+			"Enabled": true
+		},
+		{
+			"Name": "Crafting",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoCraftingBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoAudioBase",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_DarkAcademy_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTM_CatCafe_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_HauntedHouse",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_OsirisTown",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_NewsPaperBuilding",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTrainingStations",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_CityPopulation_Prop",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTheme_NewYorkApartment",
+			"Enabled": true
+		},
+		{
+			"Name": "JunoTG_CatCafe_Prop",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "Juno/Odyssey/ThemeGame",
+	"NoCode": true
+}

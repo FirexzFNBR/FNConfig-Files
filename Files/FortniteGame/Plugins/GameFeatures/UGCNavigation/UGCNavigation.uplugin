@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "UGC Navigation",
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "UGC",
+	"FortReleaseVersion": "37.30",
+	"Version": 0,
+	"VersionName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "CRD_HenchmanSpawner",
+			"Enabled": true
+		},
+		{
+			"Name": "NPCDefault",
+			"Enabled": true
+		}
+	]
+}

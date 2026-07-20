@@ -1,0 +1,67 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"VersePath": "/Fortnite.com/Devices",
+	"VerseScope": "PublicAPI",
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"EditorCustomVirtualPath": "Creative",
+	"Category": "Game Features",
+	"FortReleaseVersion": "31.00",
+	"Plugins": [
+		{
+			"Name": "WeaponModStation",
+			"Activate": true,
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponModStationUI",
+			"Activate": true,
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponMods",
+			"Activate": true,
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponModsCode",
+			"Activate": true,
+			"Enabled": true
+		},
+		{
+			"Name": "WeaponModsUI",
+			"Activate": true,
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaWeaponCases",
+			"Enabled": true
+		},
+		{
+			"Name": "FortniteConversationUI",
+			"Enabled": true,
+			"Activate": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"LocalizationTargets": [
+		{
+			"Name": "CRD_WeaponModBench",
+			"LoadingPolicy": "Game",
+			"ConfigGenerationPolicy": "Auto"
+		}
+	]
+}

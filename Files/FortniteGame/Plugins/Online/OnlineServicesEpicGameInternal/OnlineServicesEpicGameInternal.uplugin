@@ -1,0 +1,46 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Online Services Epic Game Services Internal",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"Description" : "Access to Epic Game Services including Epic internal interfaces",
+	"Category" : "Online Platform",
+	"CreatedBy" : "Epic Games, Inc.",
+	"CreatedByURL" : "https://epicgames.com",
+	"EnabledByDefault" : false,
+
+    "Modules": [
+        {
+            "Name": "OnlineServicesEpicGameInternal",
+            "Type": "Runtime",
+            "LoadingPhase" : "PostConfigInit"
+		}
+    ],
+	"Plugins": [
+		{
+			"Name": "OnlineServicesEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEOSGS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEpicCommon",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEpicCommonInternal",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEpicGame",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesInternal",
+			"Enabled": true
+		}
+	]
+}

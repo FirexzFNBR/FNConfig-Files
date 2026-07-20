@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FlowAnalyticsDebugger",
+	"Description": "Debugger for the Flow Analytics system.",
+	"Category": "Analytics",
+	"CreatedBy": "Epic Games, Inc.",
+	"CreatedByURL": "http://epicgames.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Modules": [
+		{
+		  "Name": "FlowAnalyticsDebugger",
+		  "Type": "Editor",
+		  "LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+	]
+}

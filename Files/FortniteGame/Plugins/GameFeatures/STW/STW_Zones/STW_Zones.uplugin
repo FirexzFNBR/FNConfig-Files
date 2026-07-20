@@ -1,0 +1,51 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"BuiltInInitialFeatureState": "Registered",
+	"BuiltInAutoRegister": true,
+	"BuiltInAutoLoad": false,
+	"BuiltInAutoActivate": false,
+	"FortReleaseVersion": "40.20",
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SaveTheWorld",
+			"Enabled": true
+		},
+		{
+			"Name": "STW_Biomes_Root",
+			"Enabled": true
+		},
+		{
+			"Name": "STW_Missions",
+			"Enabled": true
+		},
+		{
+			"Name": "STW_Sounds",
+			"Enabled": true
+		},
+		{
+			"Name": "STW_Mission_Hunt",
+			"Enabled": true
+		},
+		{
+			"Name": "Lab_Assets",
+			"Enabled": true
+		}
+	],
+	"EditorCustomVirtualPath": "SaveTheWorld"
+}

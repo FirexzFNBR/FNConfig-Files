@@ -1,0 +1,129 @@
+{
+	"FileVersion": 3,
+	"CanContainContent": true,
+	"ExplicitlyLoaded": true,
+	"EnabledByDefault": false,
+	"FortReleaseVersion": "40.20",
+	"SunsetFortReleaseVersion": "Future",
+	"BuiltInInitialFeatureState": "Registered",
+	"Modules": [
+		{
+			"Name": "BlueCheeseRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "BlueCheeseUI",
+			"Type": "ClientOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		},
+		{
+			"Name": "Curie",
+			"Enabled": true
+		},
+		{
+			"Name": "DistortedWeaponsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PortAShackGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "UnstableLiquidGun",
+			"Enabled": true
+		},
+		{
+			"Name": "KeysAndLocks",
+			"Enabled": true
+		},
+		{
+			"Name": "DaisyWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "MotherGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaConsumables",
+			"Enabled": true
+		},
+		{
+			"Name": "TeaCakeWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "DragonCartWeaponGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "PaprikaCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "ImpulseGrenade",
+			"Enabled": true
+		},
+		{
+			"Name": "CorruptionItems",
+			"Enabled": true
+		},
+		{
+			"Name": "MusterCoreWeapons",
+			"Enabled": true
+		},
+		{
+			"Name": "RiftGauntletsGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "TeaCakeShredder",
+			"Enabled": true
+		},
+		{
+			"Name": "LavaLeaf",
+			"Enabled": true
+		},
+		{
+			"Name": "FizzyCloudGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "ZiplineDeployer",
+			"Enabled": true
+		},
+		{
+			"Name": "TeaCakeConsumables",
+			"Enabled": true
+		}
+	],
+	"Version": 0,
+	"VersionName": "",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"EditorCustomVirtualPath": "LTM"
+}

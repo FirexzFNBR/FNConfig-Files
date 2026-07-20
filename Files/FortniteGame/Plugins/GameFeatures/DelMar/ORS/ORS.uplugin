@@ -1,0 +1,25 @@
+{
+    "FileVersion": 3,
+    "CanContainContent": true,
+    "ExplicitlyLoaded": true,
+    "EnabledByDefault": false,
+    "EditorCustomVirtualPath": "DelMar",
+    "BuiltInInitialFeatureState": "Registered",
+    "BuiltInAutoRegister": true,
+    "BuiltInAutoLoad": false,
+    "BuiltInAutoActivate": false,
+    "FortReleaseVersion": "28.00",
+    "Modules": [
+		{
+			"Name": "ORS",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		}
+	]
+}
